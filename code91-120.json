@@ -1,0 +1,5516 @@
+{
+    "ResourceRecordSets91": [
+        {
+            "Name": "grupoboticario.com.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "10  grupoboticario.in.tmes.trendmicro.com"
+                }
+            ]
+        },
+        {
+            "Name": "grupoboticario.com.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1532.awsdns-63.org."
+                },
+                {
+                    "Value": "ns-928.awsdns-52.net."
+                },
+                {
+                    "Value": "ns-453.awsdns-56.com."
+                },
+                {
+                    "Value": "ns-1852.awsdns-39.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "grupoboticario.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1532.awsdns-63.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "grupoboticario.com.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"MS=ms38233241\""
+                },
+                {
+                    "Value": "\"v=spf1 include:spf.protection.outlook.com include:_spf.google.com -all\""
+                },
+                {
+                    "Value": "\"google-site-verification=O1X0XANRqsMNYKSGJHwJZBR5AzuaefVvP2V5jd9Q5MA\""
+                },
+                {
+                    "Value": "\"miro-verification=1e9bbc261eced54539ee7ee0fd7c86c042b188b2\""
+                }
+            ]
+        },
+        {
+            "Name": "28804354.grupoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "evsg.fwclick.io"
+                }
+            ]
+        },
+        {
+            "Name": "35861094.grupoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "google.com"
+                }
+            ]
+        },
+        {
+            "Name": "8u83r._domainkey.grupoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "wl650527s1.domainkey.myfreshworks.com"
+                }
+            ]
+        },
+        {
+            "Name": "8u83r2._domainkey.grupoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "wl650527s2.domainkey.myfreshworks.com"
+                }
+            ]
+        },
+        {
+            "Name": "8u83r3._domainkey.grupoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "wl650527s3.domainkey.myfreshworks.com"
+                }
+            ]
+        },
+        {
+            "Name": "8u83r4._domainkey.grupoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "wl650527s4.domainkey.myfreshworks.com"
+                }
+            ]
+        },
+        {
+            "Name": "_github-challenge-grupo-boticario-ent.grupoboticario.com.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"7db2acfbdd\""
+                }
+            ]
+        },
+        {
+            "Name": "autodiscover.grupoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "autodiscover.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "fslink.grupoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "fslink.fwclick.io"
+                }
+            ]
+        },
+        {
+            "Name": "fwdkim.grupoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "spfmx7.domainkey.myfreshworks.com"
+                }
+            ]
+        },
+        {
+            "Name": "fwtrack.grupoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "tr14438.fwclick.io"
+                }
+            ]
+        },
+        {
+            "Name": "fwtrack1.grupoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "evsg.fwclick.io"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets92": [
+        {
+            "Name": "comercial.grupoboticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-772.awsdns-32.net."
+                },
+                {
+                    "Value": "ns-1315.awsdns-36.org."
+                },
+                {
+                    "Value": "ns-1712.awsdns-22.co.uk."
+                },
+                {
+                    "Value": "ns-180.awsdns-22.com."
+                }
+            ]
+        },
+        {
+            "Name": "comercial.grupoboticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-772.awsdns-32.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.comercial.grupoboticario.com.br.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"SNzfENkOG9KeNMri8Bd4eWrTKKmfJraz0UxxiN8cRSY=\""
+                }
+            ]
+        },
+        {
+            "Name": "7irmuddw4zads3wevpnrl3bu4awbi2x4._domainkey.comercial.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "7irmuddw4zads3wevpnrl3bu4awbi2x4.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "me26p5tkki43pi6gnrvoga3io7xndkjl._domainkey.comercial.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "me26p5tkki43pi6gnrvoga3io7xndkjl.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "xe35hfvmec2ngyg4top5x2mel4ufbz3c._domainkey.comercial.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "xe35hfvmec2ngyg4top5x2mel4ufbz3c.dkim.amazonses.com."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets93": [
+        {
+            "Name": "sucessoresgb.com.br.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "52.1.106.141"
+                }
+            ]
+        },
+        {
+            "Name": "sucessoresgb.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1470.awsdns-55.org."
+                },
+                {
+                    "Value": "ns-397.awsdns-49.com."
+                },
+                {
+                    "Value": "ns-1600.awsdns-08.co.uk."
+                },
+                {
+                    "Value": "ns-796.awsdns-35.net."
+                }
+            ]
+        },
+        {
+            "Name": "sucessoresgb.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1470.awsdns-55.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.sucessoresgb.com.br.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "sucessoresgb.konviva.com.br"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets94": [
+        {
+            "Name": "shopnativaspa.com.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "23.227.38.65"
+                }
+            ]
+        },
+        {
+            "Name": "shopnativaspa.com.",
+            "Type": "MX",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com."
+                }
+            ]
+        },
+        {
+            "Name": "shopnativaspa.com.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-644.awsdns-16.net."
+                },
+                {
+                    "Value": "ns-377.awsdns-47.com."
+                },
+                {
+                    "Value": "ns-1859.awsdns-40.co.uk."
+                },
+                {
+                    "Value": "ns-1391.awsdns-45.org."
+                }
+            ]
+        },
+        {
+            "Name": "shopnativaspa.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-644.awsdns-16.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "shopnativaspa.com.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"MS=ms31594077\""
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.shopnativaspa.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "shopnativaspa.com.letsencrypt.vdeck.eigdyn.com."
+                }
+            ]
+        },
+        {
+            "Name": "www.shopnativaspa.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "shops.myshopify.com"
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.www.shopnativaspa.com.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"E-j1UikSclpCgpmwUeO4mv9MQTY_5ArS-F5nfVGpPz8\""
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets95": [
+        {
+            "Name": "gavb.in.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-392.awsdns-49.com."
+                },
+                {
+                    "Value": "ns-1696.awsdns-20.co.uk."
+                },
+                {
+                    "Value": "ns-954.awsdns-55.net."
+                },
+                {
+                    "Value": "ns-1413.awsdns-48.org."
+                }
+            ]
+        },
+        {
+            "Name": "gavb.in.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-392.awsdns-49.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets96": [
+        {
+            "Name": "gavb.io.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-380.awsdns-47.com."
+                },
+                {
+                    "Value": "ns-1065.awsdns-05.org."
+                },
+                {
+                    "Value": "ns-991.awsdns-59.net."
+                },
+                {
+                    "Value": "ns-1883.awsdns-43.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "gavb.io.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-380.awsdns-47.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets97": [
+        {
+            "Name": "revendaboticarious.com.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z2FDTNDATAQYW2",
+                "DNSName": "d2tk6n585bc7sp.cloudfront.net.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "revendaboticarious.com.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1449.awsdns-53.org."
+                },
+                {
+                    "Value": "ns-161.awsdns-20.com."
+                },
+                {
+                    "Value": "ns-1681.awsdns-18.co.uk."
+                },
+                {
+                    "Value": "ns-626.awsdns-14.net."
+                }
+            ]
+        },
+        {
+            "Name": "revendaboticarious.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1449.awsdns-53.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "\\052.revendaboticarious.com.",
+            "Type": "MX",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "10 mx.revendaboticarious.com"
+                }
+            ]
+        },
+        {
+            "Name": "\\100.revendaboticarious.com.",
+            "Type": "MX",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "10 mx.revendaboticarious.com"
+                }
+            ]
+        },
+        {
+            "Name": "\\100.revendaboticarious.com.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 ip4:66.96.128.0/18 include:shops.shopify.com ?all\""
+                }
+            ]
+        },
+        {
+            "Name": "_230db7cfc2bcfa701dda033c3127a48c.revendaboticarious.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4cedb5920106ef931271c1643b7d57cb.zrvsvrxrgs.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4d3a144be17ccef1214b9e1ff37a476d.revendaboticarious.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5c632bf678512084f8284fb6240d3cdb.zrvsvrxrgs.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_67eb3cead08d43c9c9d6179f7d11db87.revendaboticarious.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d9a8206f7efaa7c24f70043fdeb53082.zrvsvrxrgs.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "ftp.revendaboticarious.com.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "66.96.162.145"
+                }
+            ]
+        },
+        {
+            "Name": "imap.revendaboticarious.com.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "66.96.162.145"
+                }
+            ]
+        },
+        {
+            "Name": "mail.revendaboticarious.com.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "66.96.162.145"
+                }
+            ]
+        },
+        {
+            "Name": "mx.revendaboticarious.com.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "66.96.140.162"
+                },
+                {
+                    "Value": "66.96.140.163"
+                }
+            ]
+        },
+        {
+            "Name": "pop.revendaboticarious.com.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "66.96.162.145"
+                }
+            ]
+        },
+        {
+            "Name": "smtp.revendaboticarious.com.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "66.96.162.145"
+                }
+            ]
+        },
+        {
+            "Name": "webmail.revendaboticarious.com.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "66.96.162.48"
+                }
+            ]
+        },
+        {
+            "Name": "www.revendaboticarious.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "shops.myshopify.com."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets98": [
+        {
+            "Name": "quemdisseberenice.pt.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "23.227.38.65"
+                }
+            ]
+        },
+        {
+            "Name": "quemdisseberenice.pt.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "0 grupoboticario.in.tmes.trendmicro.com."
+                }
+            ]
+        },
+        {
+            "Name": "quemdisseberenice.pt.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1340.awsdns-39.org."
+                },
+                {
+                    "Value": "ns-742.awsdns-28.net."
+                },
+                {
+                    "Value": "ns-1974.awsdns-54.co.uk."
+                },
+                {
+                    "Value": "ns-445.awsdns-55.com."
+                }
+            ]
+        },
+        {
+            "Name": "quemdisseberenice.pt.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1340.awsdns-39.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "quemdisseberenice.pt.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCstRL+x7EtNnH6QuN4sQ3EZ+TG063dMZVL8UsenNsYJdkQxanhw62z4rrlJOoO32cuYcdpnBHkFul5j9kBPVLYEqfsCDKd+TGiTDGlb5ELkR7Vr/3ZCqKEzhNRxJ8DLXKu6h0o6ES/sEpkx61TKPHuIqomE++AwbtRIhURhbR+5QIDAQAB\""
+                },
+                {
+                    "Value": "\"_globalsign-domain-verification=WYYHW5P-MIkWLmVWL1ctuC2lmneAOlpoQkm17szVW2\""
+                },
+                {
+                    "Value": "\"v=spf1 ip4:88.157.197.155 ip4:88.157.197.156 ip4:88.157.197.157 ip4:88.157.197.158 include:spf.protection.outlook.com include:_spf.kmitd.com include:_spf.google.com -all\""
+                },
+                {
+                    "Value": "\"Validity-Domain-Authentication=ghfnejdjdogjh\""
+                },
+                {
+                    "Value": "\"google-site-verification=1uErds9O8VJ_O-BgbQfU2-_jEfDJLpUovbro516a8uc\""
+                }
+            ]
+        },
+        {
+            "Name": "_dmarc.quemdisseberenice.pt.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=DMARC1; p=quarantine; rua=mailto:incidente@grupoboticario.pt; pct=40;\""
+                }
+            ]
+        },
+        {
+            "Name": "egoi._domainkey.quemdisseberenice.pt.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=DKIM1; g=*; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCstRL+x7EtNnH6QuN4sQ3EZ+TG063dMZVL8UsenNsYJdkQxanhw62z4rrlJOoO32cuYcdpnBHkFul5j9kBPVLYEqfsCDKd+TGiTDGlb5ELkR7Vr/3ZCqKEzhNRxJ8DLXKu6h0o6ES/sEpkx61TKPHuIqomE++AwbtRIhURhbR+5QIDAQAB\""
+                }
+            ]
+        },
+        {
+            "Name": "_sip._tls.quemdisseberenice.pt.",
+            "Type": "SRV",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "100 1 443 sipdir.online.lync.com."
+                }
+            ]
+        },
+        {
+            "Name": "_www.quemdisseberenice.pt.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"www.quemdisseberenice.pt.cdn.vtex.com\""
+                }
+            ]
+        },
+        {
+            "Name": "autodiscover.quemdisseberenice.pt.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "autodiscover.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "emailmarketing.quemdisseberenice.pt.",
+            "Type": "NS",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "ns1.exacttarget.com."
+                },
+                {
+                    "Value": "ns2.exacttarget.com."
+                },
+                {
+                    "Value": "ns3.exacttarget.com."
+                },
+                {
+                    "Value": "ns4.exacttarget.com."
+                }
+            ]
+        },
+        {
+            "Name": "enterpriseenrollment.quemdisseberenice.pt.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "enterpriseenrollment.manage.microsoft.com."
+                }
+            ]
+        },
+        {
+            "Name": "enterpriseregistration.quemdisseberenice.pt.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "enterpriseregistration.windows.net."
+                }
+            ]
+        },
+        {
+            "Name": "google.quemdisseberenice.pt.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"google-site-verification=A4cWibfkrW8mBd6t7Js8fmv4y1O2OcAo6E7sr3Wpifc\""
+                }
+            ]
+        },
+        {
+            "Name": "lyncdiscover.quemdisseberenice.pt.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "webdir.online.lync.com."
+                }
+            ]
+        },
+        {
+            "Name": "redirect.quemdisseberenice.pt.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "www.quemdisseberenice.pt.opts-uri.direcionar.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "sip.quemdisseberenice.pt.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "sipdir.online.lync.com."
+                }
+            ]
+        },
+        {
+            "Name": "www.quemdisseberenice.pt.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "shops.myshopify.com"
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.www.quemdisseberenice.pt.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"Qh5ZRytRTLUzWn-8BnLbEquLTIOrqFTFKHlaLhMYOZ8\""
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets99": [
+        {
+            "Name": "ecomm.grupoboticario.digital.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-583.awsdns-08.net."
+                },
+                {
+                    "Value": "ns-281.awsdns-35.com."
+                },
+                {
+                    "Value": "ns-1803.awsdns-33.co.uk."
+                },
+                {
+                    "Value": "ns-1492.awsdns-58.org."
+                }
+            ]
+        },
+        {
+            "Name": "ecomm.grupoboticario.digital.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-583.awsdns-08.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_10da958c2dd127ed98fcd8f717060b55.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_269ecbe824fe87346528bfff2463309a.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2dd6597eff3dca34a155887c833e6d1c.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_47dd83724f23c763c41ac28ed95bd97b.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_83d5838f3bf96d08d543f9c79055a80d.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_afa6b3668f1d066f1b8ceb239e82a515.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_86d07251e30f1d3ff386041f16047500.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_284ef70cb327414bbc450e85eca96378.vhzmpjdqfx.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e77e1bae7239ec5da108cba8337eceb4.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ef84a964f9e9870447d54c4fd1c4928c.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f302ad80fbacd184f890b688058e080e.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a615a8313e7cde3f5698364e168b29eb.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "argocd.ecomm.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-argocd-argocdse-3ebb10b823-952657827.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "argocd.ecomm.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-ecomm-shr,external-dns/resource=ingress/argocd/argocd-server\""
+                }
+            ]
+        },
+        {
+            "Name": "_45b6bbbbb2bbe23239ad084882ed80a0.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c6eb2019fe30e9ccc5bad67339c1d8fd.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "argocd-sandbox.dev.ecomm.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-argocd-argocdse-ff1836a5ac-471320956.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "argocd-sandbox.dev.ecomm.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-vs-ecomm-sandbox,external-dns/resource=ingress/argocd/argocd-server\""
+                }
+            ]
+        },
+        {
+            "Name": "backoffice-mf-marketplace-in.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d33ubaby2mrojw.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "backoffice-mf-marketplace.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "dq22zio893h1r.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "backoffice-mf-review.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d1trwcex81s67t.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "backoffice-mfe-occurrence.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d23xvsacno7cuu.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "backoffice-mfe-tms-reports.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d1qeyy4az8qfai.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "backoffice-recommendation-catalog.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d10vz6edgym5x2.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "backoffice-recommendation-status-dashboard.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d2hfh5sjlh46yd.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "ci-sandbox.dev.ecomm.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-jenkins-jenkins-6f9df6045f-1879474682.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "ci-sandbox.dev.ecomm.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-vs-ecomm-sandbox,external-dns/resource=ingress/jenkins/jenkins\""
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-container.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d2p6ce7sgkuyys.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-customer-support.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d2eli0hhhd2628.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-listing.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d240ddokb5ylgj.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-container.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "dwfnshakow2dy.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-customer-support.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d1xefblplhozdu.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-listing.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d39vwz0dsxkgal.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-logistics.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d4akion8e5nhz.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-order.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d2zu7lfv3wxrk4.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-product.dev.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "diilk0bzrmmis.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "_56384d0e217675c65f7bd7996e771c81.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_514e1f3dbe8b91a122c5bb9a920b95b3.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6941a3d3f3667897dc796989bb6b9d23.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_02eac554863cba1bd4b122e55a97d1f1.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "ad-server.hml.ecomm.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z1H1FL5HABSF5",
+                "DNSName": "internal-k8s-internal-8974bd9019-2125524302.us-west-2.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "ad-server.hml.ecomm.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=ecomm-prd-eks-backend-nav-qa,external-dns/resource=ingress/default/ad-server\""
+                }
+            ]
+        },
+        {
+            "Name": "amazonmq-common.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "nlb-amazonmq-common-d5e5ec409c098f78.elb.us-east-1.amazonaws.com"
+                }
+            ]
+        },
+        {
+            "Name": "backoffice-mf-marketplace-in.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d30hc91f6hqvsf.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "elasticache-common.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "gb-common.aecwpo.ng.0001.use1.cache.amazonaws.com"
+                }
+            ]
+        },
+        {
+            "Name": "info-bank-service.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d1n8hqms3qvl77.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "loucas.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "loucas.cfjqkaocaqde.us-east-1.rds.amazonaws.com"
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-container.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d2n4qsd5ym8od9.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-customer-support.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d1u8r0br9sgmyy.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-listing.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d52wts5jbweqi.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-logistics.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d397f4hwj9kg8j.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-order.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d1i1oyk6v9lpwz.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "marketplace-mf-product.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d125zlhmnkz0q5.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "postgres-common.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "postgres-ecomm-common.cfjqkaocaqde.us-east-1.rds.amazonaws.com"
+                }
+            ]
+        },
+        {
+            "Name": "postgres-datawarehouse.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "datawarehouse.cfjqkaocaqde.us-east-1.rds.amazonaws.com"
+                }
+            ]
+        },
+        {
+            "Name": "rabbit-amqp-common.hml.ecomm.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z26RNL4JYFTOTI",
+                "DNSName": "nlb-ecomm-rabbitmq-internal-8ce645e9cfab3342.elb.us-east-1.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "rabbitmq.hml.ecomm.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z26RNL4JYFTOTI",
+                "DNSName": "nlb-ecomm-rabbitmq-c6e162860e562b14.elb.us-east-1.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "redshift-common.hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "common.cx7dpt2qtklj.us-east-1.redshift.amazonaws.com"
+                }
+            ]
+        },
+        {
+            "Name": "linx-static-files-prd.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "dcmjglfzs66di.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "_2e4d2f4ed32b06b480f5600e1a8d15ac.prd.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_67f5a9db9a739dc9b8236738857d6dc3.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "amazonmq-rabbitmq-ecomm.prd.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "nlb-amazonmq-rabbitmq-ecomm-b57acfaf5d692abd.elb.sa-east-1.amazonaws.com"
+                }
+            ]
+        },
+        {
+            "Name": "_e703cc0b2be20e124e4847afabcad0d1.rabbitmq-hml.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_beb6fdfa899be3720515d4c2cd95cf5c.gskhnxswdw.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4ea512ca9df85230ecb54449391cfdba.shr.ecomm.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_75b3deb5dc4aa54ba62e7ae21851d1fa.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "actions-runner.shr.ecomm.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "k8s-githubinbound-025e260942-667671715.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "actions-runner.shr.ecomm.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-ecomm-shr,external-dns/resource=ingress/actions-runner-system/actions-runner-controller-github-webhook-server\""
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets100": [
+        {
+            "Name": "vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 600,
+            "ResourceRecords": [
+                {
+                    "Value": "15.197.142.173"
+                },
+                {
+                    "Value": "3.33.152.147"
+                }
+            ]
+        },
+        {
+            "Name": "vendeoboticario.com.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "0 vendeoboticario-com.mail.protection.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "vendeoboticario.com.",
+            "Type": "NS",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-253.awsdns-31.com."
+                },
+                {
+                    "Value": "ns-1845.awsdns-38.co.uk."
+                },
+                {
+                    "Value": "ns-567.awsdns-06.net."
+                },
+                {
+                    "Value": "ns-1070.awsdns-05.org."
+                }
+            ]
+        },
+        {
+            "Name": "vendeoboticario.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-253.awsdns-31.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "vendeoboticario.com.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 ip4:200.186.3.245 ip4:189.86.220.28 include:spf.protection.outlook.com include:mail.zendesk.com include:turbo-smtp.com -all\""
+                },
+                {
+                    "Value": "\"fpr38u7ip9ao1m1n8drsj3dkd1\""
+                }
+            ]
+        },
+        {
+            "Name": "911.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "52.167.187.119"
+                }
+            ]
+        },
+        {
+            "Name": "_sipfederationtls._tcp.\\100.vendeoboticario.com.",
+            "Type": "SRV",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "100 1 5061 sipfed.online.lync.com."
+                }
+            ]
+        },
+        {
+            "Name": "_sip._tls.\\100.vendeoboticario.com.",
+            "Type": "SRV",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "100 1 443 sipdir.online.lync.com."
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.vendeoboticario.com.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"FwjfjoO9tLkM_8MrPkjP07kBO2yywcQkO4jXUJ9e5UI\""
+                }
+            ]
+        },
+        {
+            "Name": "_domainconnect.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "_domainconnect.gd.domaincontrol.com."
+                }
+            ]
+        },
+        {
+            "Name": "s1._domainkey.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "s1.domainkey.u28571260.wl011.sendgrid.net"
+                }
+            ]
+        },
+        {
+            "Name": "s2._domainkey.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "s2.domainkey.u28571260.wl011.sendgrid.net"
+                }
+            ]
+        },
+        {
+            "Name": "turbo-smtp._domainkey.vendeoboticario.com.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDT3MWLni6so1q9eQggRYBCLHFjohZkCnYHH8gZNDBm6zRrodRVpWpJQW7x3cWWiuBhS1X0IfBB80l5tqFa+yc+mVgnk8tkUzOHFbPQPp4fi7egTpMtsQW/ZMrxw73SItNvPr72qvJTYZNPxarMx+ULjEWybcfEdXHPY8jslGcpCwIDAQAB\""
+                }
+            ]
+        },
+        {
+            "Name": "apiappco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "apiappsco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "apiauthco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "apisgico.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "apistoreco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "autodiscover.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "autodiscover.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "cartco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.cartco.vendeoboticario.com.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"vyDUQLiAv33UmuNV72g6XVOwjPLZzija9cPZfuQYmFg\""
+                },
+                {
+                    "Value": "\"KiA-aw66c8t7mjH79HZN7wBdg8mx_GphZGTO2r83n8w\""
+                }
+            ]
+        },
+        {
+            "Name": "ch746cd0s1v4hqys4k29l2x2h53qmp2r.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "dcv.digicert.com"
+                }
+            ]
+        },
+        {
+            "Name": "co.vendeoboticario.com.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "0 co-vendeoboticario-com.mail.protection.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "co.vendeoboticario.com.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 include:spf.protection.outlook.com include:mail.zendesk.com include:turbo-smtp.com -all\""
+                }
+            ]
+        },
+        {
+            "Name": "_sipfederationtls._tcp.co.vendeoboticario.com.",
+            "Type": "SRV",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "100 1 5061 sipfed.online.lync.com."
+                }
+            ]
+        },
+        {
+            "Name": "_sip._tls.co.vendeoboticario.com.",
+            "Type": "SRV",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "100 1 443 sipdir.online.lync.com."
+                }
+            ]
+        },
+        {
+            "Name": "autodiscover.co.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "autodiscover.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "enterpriseenrollment.co.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "enterpriseenrollment.manage.microsoft.com."
+                }
+            ]
+        },
+        {
+            "Name": "enterpriseregistration.co.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "enterpriseregistration.windows.net."
+                }
+            ]
+        },
+        {
+            "Name": "lyncdiscover.co.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "webdir.online.lync.com."
+                }
+            ]
+        },
+        {
+            "Name": "sip.co.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "sipdir.online.lync.com."
+                }
+            ]
+        },
+        {
+            "Name": "zendesk1.co.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "mail1.zendesk.com."
+                }
+            ]
+        },
+        {
+            "Name": "zendesk2.co.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "mail2.zendesk.com."
+                }
+            ]
+        },
+        {
+            "Name": "zendesk3.co.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "mail3.zendesk.com."
+                }
+            ]
+        },
+        {
+            "Name": "zendesk4.co.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "mail4.zendesk.com."
+                }
+            ]
+        },
+        {
+            "Name": "zendeskverification.co.vendeoboticario.com.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"a77de83138a2ae5a\""
+                }
+            ]
+        },
+        {
+            "Name": "contentco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "dapiappco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "dapiappsco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "dapiauthco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "dapisgico.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "dapistoreco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "dcartco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "dcontentco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "dmailco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "drsco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "dsgico.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "dspeedtestco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "dstoreco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "em2432.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "u29150156.wl157.sendgrid.net"
+                }
+            ]
+        },
+        {
+            "Name": "em5931.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "u28571260.wl011.sendgrid.net"
+                }
+            ]
+        },
+        {
+            "Name": "turbo-smtp._domainkey.email.vendeoboticario.com.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDT3MWLni6so1q9eQggRYBCLHFjohZkCnYHH8gZNDBm6zRrodRVpWpJQW7x3cWWiuBhS1X0IfBB80l5tqFa+yc+mVgnk8tkUzOHFbPQPp4fi7egTpMtsQW/ZMrxw73SItNvPr72qvJTYZNPxarMx+ULjEWybcfEdXHPY8jslGcpCwIDAQAB\""
+                }
+            ]
+        },
+        {
+            "Name": "enterpriseenrollment.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "enterpriseenrollment.manage.microsoft.com."
+                }
+            ]
+        },
+        {
+            "Name": "enterpriseregistration.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "enterpriseregistration.windows.net."
+                }
+            ]
+        },
+        {
+            "Name": "formsco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "mq7sxj3.x.incapdns.net."
+                }
+            ]
+        },
+        {
+            "Name": "formscoback.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "52.167.189.29"
+                }
+            ]
+        },
+        {
+            "Name": "ftpco1.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.79.81.133"
+                }
+            ]
+        },
+        {
+            "Name": "ftpnumrot.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "p-invoice-fb1.eastus2.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "htest.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp"
+                }
+            ]
+        },
+        {
+            "Name": "lyncdiscover.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "webdir.online.lync.com."
+                }
+            ]
+        },
+        {
+            "Name": "mailco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "ml-sgico.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "ml-uatsgico.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "originakasgico.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "40.124.25.164"
+                }
+            ]
+        },
+        {
+            "Name": "originakauatrsco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "originakauatsgico.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "oriniakacartco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.124.25.164"
+                }
+            ]
+        },
+        {
+            "Name": "oriniakauatrsco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "posco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "boticario-p-cegid-fnt1.eastus2.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "remote1.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.75.117.203"
+                }
+            ]
+        },
+        {
+            "Name": "rsco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.rsco.vendeoboticario.com.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"EXj1UC2Xylqb_z-JufqhutdONtqLw6B_gYvtnPvHAEE\""
+                },
+                {
+                    "Value": "\"Ddm1EMe33AVQJ1F_2jSVW1Hrr-0PjbRrBuBsocXSjcY\""
+                }
+            ]
+        },
+        {
+            "Name": "sgico.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.sgico.vendeoboticario.com.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"wTn4p-1CXowi93yl4eSZPkmS-jePg8yo1VGFkAbmuRk\""
+                },
+                {
+                    "Value": "\"1-4jy3PciCJM2aLnvYF7JN_ZYn3MtH_Q8G88IR3cA5E\""
+                }
+            ]
+        },
+        {
+            "Name": "sip.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "sipdir.online.lync.com."
+                }
+            ]
+        },
+        {
+            "Name": "soporte.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 600,
+            "ResourceRecords": [
+                {
+                    "Value": "15.197.142.173"
+                },
+                {
+                    "Value": "3.33.152.147"
+                }
+            ]
+        },
+        {
+            "Name": "speedtestco-test.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "speedtestco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "storeco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbotco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uat2apiappco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uat2apiappsco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uat2apiauthco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uat2apisgico.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uat2apistoreco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uat2cartco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uat2contentco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uat2mailco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uat2rsco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uat2sgico.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uat2speedtestco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uat2storeco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "40.74.234.252"
+                }
+            ]
+        },
+        {
+            "Name": "uatapiappco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uatapiappsco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uatapiauthco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uatapisgico.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uatapistoreco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uatcartco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uatcontentco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uatformsco.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "52.167.188.18"
+                }
+            ]
+        },
+        {
+            "Name": "uatformscoback.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "52.167.188.18"
+                }
+            ]
+        },
+        {
+            "Name": "uatmailco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uatposco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "boticario-t-cegid-fnt1.eastus2.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uatrsco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.uatrsco.vendeoboticario.com.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"B4M3YPPZh3BQOrsfttTx9EkjEDGU-RFmVGQ6UFq4jH4\""
+                }
+            ]
+        },
+        {
+            "Name": "uatsgico.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uatspeedtestco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "uatstoreco.vendeoboticario.com.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "vdbothco.southcentralus.cloudapp.azure.com."
+                }
+            ]
+        },
+        {
+            "Name": "vpn1.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "190.216.154.82"
+                }
+            ]
+        },
+        {
+            "Name": "vpn2.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "201.184.66.218"
+                }
+            ]
+        },
+        {
+            "Name": "www.vendeoboticario.com.",
+            "Type": "A",
+            "TTL": 600,
+            "ResourceRecords": [
+                {
+                    "Value": "15.197.142.173"
+                },
+                {
+                    "Value": "3.33.152.147"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets101": [
+        {
+            "Name": "kubecost.grupoboticario.digital.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1860.awsdns-40.co.uk."
+                },
+                {
+                    "Value": "ns-160.awsdns-20.com."
+                },
+                {
+                    "Value": "ns-1377.awsdns-44.org."
+                },
+                {
+                    "Value": "ns-876.awsdns-45.net."
+                }
+            ]
+        },
+        {
+            "Name": "kubecost.grupoboticario.digital.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1860.awsdns-40.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_141f83dfcae6a01145e1d21f2aec9081.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5e03b549ae2ae4413137f1b1d0b62f37.bkngfjypgb.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_22a9aa75ca1441bd0519e381c8a796cb.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4609b78fc938adca6de4df199660f467.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_23cee323ef943d72ef5ab4d37d0cea6d.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_044632e72f66fa1d81abd72d7f21bc40.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_245ba659a4e0509b5359f16ee9e0dcd4.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_52a079de3590cefb05fafea0a0511a8b.crxktfrmng.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3b7853275845075200ce8a110fea9a3a.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2cb4e249548b1e541e8ecb8530c96b7f.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3d72a2971ea0051c2f10585ff728c688.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f06ce1af2d5fa00edd96197b85d2eadc.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4f74c2adbd1a6bb046f8fa1cca3f0b45.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0506b325ba235003b1bb50c30d2524cd.jhztdrwbnw.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_53b544c258fb6eb6f21ae7636004b3d0.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0b48195e65f692424a79e39f18b0d7d3.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5b916fdff041f55f8dd667ae3546d657.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_288ab823a5561cce5ee5738160fb4402.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_673f280407b8e414140ec0270ace107c.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d744b35a3bd0cc72249632b8efd53cc3.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_711b62ee3cce26742b033d9ea0f5b43d.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d7b8638abb9608d058f9266361791c9f.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7c75e207dfdad960ed8b53104b3cdadd.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_583bdd0866903eb28010796ae93de88a.yyqgzzsvtj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9226c097d7542494a25c0151aa32857d.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7e0c55fc80fb5dc45c3a50386fde7b92.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a00d8283a9f98327cf2c6fa0300ad0b4.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e238752b76ec6688af23a608a7be613a.jhztdrwbnw.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a93d8cc63762a8c79e65d2076e0f2145.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1fe76d6f3e9f51272430450a6a60e646.yyqgzzsvtj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ac1fc9924a0e00bf18dce3256d020842.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b1896574ea5f5366521d40e475f4af7d.yyqgzzsvtj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_af1c66c274cab923d2337f63b9ec154b.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5aec25673b4cd56c75bbfc40b21d6b4a.yyqgzzsvtj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b0b036c5619cbb02392a0ae4f9a46257.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2a980d5d8d54bcdec7628eab712b0c61.jhztdrwbnw.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b22a0e19780dbf57c4cdf6143fa06bf4.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_848b1c1d529e8a7d3e10c37947136ba5.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ba41c6e95891e732092242b3d1ade171.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6deffc6cb0e027bc02f0991005db27df.crxktfrmng.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_be6ff66d9bd19a1a537bf2ee177cd843.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_540535dea0758d86633e57a061770df5.crxktfrmng.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_be8070c213af9539971931a010b956b6.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e678d3aef008c293f0443e3a0d42946a.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c3ed0e5333dedf90fba83d47466a8c29.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_34ee0eab9a37821f683e6a597010e3d8.yyqgzzsvtj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c938de472291154087a1b16865be6a9b.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2103f16163f4add26634f39cd7ca671f.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ca20292a3646ce169f0b297eab269271.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ac6942479af3d73d55ef2b5386d9d1c1.yyqgzzsvtj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d95b96058c49a61ef1e3576cd89704ee.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_42c0914d0dc4e3fc36f431c0ccd899f8.yyqgzzsvtj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e79efdaf0f50570236473bfe56f7d8a5.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a626a6b7132ecd5405434adbf6dc6c06.yyqgzzsvtj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ed7ea2179370f55bf49f2f43175675b7.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6e7bd43e75161454ed40e146afe2a846.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ef37b39a19332f690582ef3c32478ccd.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0f765f62eb45a469cee9d060c1a4cd5e.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_fdbbad2fe0cc9faf5b044d3fe105e438.kubecost.grupoboticario.digital.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_412a5b66d058b26f8745daf514127bad.crxktfrmng.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "cname-dea-dev.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-dea-dev,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "cname-dea-hml.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-dea-hml,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "cname-dea-prd.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-dea-prd,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "cname-dea-shr.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-dea-shr,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "cnp-dev.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-4ca1a0dcfd-1685349949.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "cnp-dev.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-canal-nao-proprietario-dev,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "cnp-hml.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-a07f01b0e5-372044658.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "cnp-hml.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-canal-nao-proprietario-hml,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "cnp-prd.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-01987b37e1-1592785683.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "cnp-prd.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-canal-nao-proprietario-prd,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "colaborador-dev.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-ec841ab530-1671891354.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "colaborador-dev.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-colaborador-dev,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "colaborador-hml.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-8664cd2488-625007319.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "colaborador-hml.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-colaborador-hml,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "colaborador-prd.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-11a495419b-250725223.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "colaborador-prd.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-colaborador-prd,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "consumidor-dev.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-47a34fa334-1843096194.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "consumidor-dev.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=vs-consumidor-eks-development,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "consumidor-hml.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-1a27439f29-1713430539.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "consumidor-hml.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=vs-consumidor-eks-homologation,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "consumidor-prd.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-0f60c47669-677988435.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "consumidor-prd.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=vs-consumidor-eks-vs-consumidor-prd,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "consumidor-shr.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-901b8f011d-1158680474.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "consumidor-shr.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=consumidor-shr-eks-shared,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "dea-dev.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-d1d0cdd58a-337274270.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "dea-dev.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-dea-dev,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "dea-hml.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-120c23a8e5-349960467.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "dea-hml.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-dea-hml,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "dea-prd.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-f0636902ad-154080025.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "dea-prd.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-dea-prd,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "dea-shr.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-812a5849b4-2020075656.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "dea-shr.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-dea-shr,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "internacional-dev.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-a5f3c18397-882134609.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "internacional-dev.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-internacional-dev,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "internacional-hml.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-8f31afbb27-934209938.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "internacional-hml.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-internacional-hml,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "internacional-prd.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-ff4c9b0041-16675883.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "internacional-prd.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-internacional-prd,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "pl-dev.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-cb464aa10e-1210035661.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "pl-dev.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-pl-dev,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "pl-hml.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-74b7c5ebe6-175907752.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "pl-hml.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-pl-prd,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "pl-shr.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-951baf2553-2131073755.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "pl-shr.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-pl-shr-argocd,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "vd-dev.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-040f2ebe81-1695700757.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "vd-dev.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-vd-dev,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "vd-hml.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-c325282c82-2057524937.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "vd-hml.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-vd-hml,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        },
+        {
+            "Name": "vd-prd.kubecost.grupoboticario.digital.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z35SXDOTRQ7X7K",
+                "DNSName": "internal-k8s-kubecost-kubecost-8652ae8baa-221966254.us-east-1.elb.amazonaws.com.",
+                "EvaluateTargetHealth": true
+            }
+        },
+        {
+            "Name": "vd-prd.kubecost.grupoboticario.digital.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"heritage=external-dns,external-dns/owner=eks-vd-prd,external-dns/resource=ingress/kubecost/kubecost\""
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets102": [
+        {
+            "Name": "ediportal.grupoboticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-431.awsdns-53.com."
+                },
+                {
+                    "Value": "ns-1622.awsdns-10.co.uk."
+                },
+                {
+                    "Value": "ns-1083.awsdns-07.org."
+                },
+                {
+                    "Value": "ns-663.awsdns-18.net."
+                }
+            ]
+        },
+        {
+            "Name": "ediportal.grupoboticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-431.awsdns-53.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "4kdafvj44khxt5ujyxjqz4z44ymbnybr._domainkey.ediportal.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 1800,
+            "ResourceRecords": [
+                {
+                    "Value": "4kdafvj44khxt5ujyxjqz4z44ymbnybr.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "c3jdbqwxnprzyutagcplm6onxf2fxmyc._domainkey.ediportal.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 1800,
+            "ResourceRecords": [
+                {
+                    "Value": "c3jdbqwxnprzyutagcplm6onxf2fxmyc.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "f2t2xjcp4h67dl4i4tikzvadjrdi2nry._domainkey.ediportal.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 1800,
+            "ResourceRecords": [
+                {
+                    "Value": "f2t2xjcp4h67dl4i4tikzvadjrdi2nry.dkim.amazonses.com"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets103": [
+        {
+            "Name": "facilita.grupoboticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1328.awsdns-38.org."
+                },
+                {
+                    "Value": "ns-103.awsdns-12.com."
+                },
+                {
+                    "Value": "ns-924.awsdns-51.net."
+                },
+                {
+                    "Value": "ns-1802.awsdns-33.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "facilita.grupoboticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1328.awsdns-38.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets104": [
+        {
+            "Name": "matchprofissional.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1609.awsdns-09.co.uk."
+                },
+                {
+                    "Value": "ns-687.awsdns-21.net."
+                },
+                {
+                    "Value": "ns-1489.awsdns-58.org."
+                },
+                {
+                    "Value": "ns-496.awsdns-62.com."
+                }
+            ]
+        },
+        {
+            "Name": "matchprofissional.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1609.awsdns-09.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_085d96fc339dfb4708c431e9b4c90d42.matchprofissional.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_62cdd880045141a97e54b8f616ed6a06.bkngfjypgb.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_0987a79ee25157abb976a10ccb33c68f.matchprofissional.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_958022df8aef710279ac3e18a86289ad.bkngfjypgb.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d31a9f128e8f1e798f9130b582a03db7.matchprofissional.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c56e40990c7c6cfc39ca5732884cf385.bkngfjypgb.acm-validations.aws."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets105": [
+        {
+            "Name": "padp.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1139.awsdns-14.org."
+                },
+                {
+                    "Value": "ns-844.awsdns-41.net."
+                },
+                {
+                    "Value": "ns-1863.awsdns-40.co.uk."
+                },
+                {
+                    "Value": "ns-433.awsdns-54.com."
+                }
+            ]
+        },
+        {
+            "Name": "padp.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1139.awsdns-14.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets106": [
+        {
+            "Name": "movimentovivagua.org.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1959.awsdns-52.co.uk."
+                },
+                {
+                    "Value": "ns-479.awsdns-59.com."
+                },
+                {
+                    "Value": "ns-815.awsdns-37.net."
+                },
+                {
+                    "Value": "ns-1218.awsdns-24.org."
+                }
+            ]
+        },
+        {
+            "Name": "movimentovivagua.org.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1959.awsdns-52.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets107": [
+        {
+            "Name": "minhalojaboticario.com.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-656.awsdns-18.net."
+                },
+                {
+                    "Value": "ns-1546.awsdns-01.co.uk."
+                },
+                {
+                    "Value": "ns-1358.awsdns-41.org."
+                },
+                {
+                    "Value": "ns-87.awsdns-10.com."
+                }
+            ]
+        },
+        {
+            "Name": "minhalojaboticario.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-656.awsdns-18.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets108": [
+        {
+            "Name": "blogdaquemdisse.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1354.awsdns-41.org."
+                },
+                {
+                    "Value": "ns-1633.awsdns-12.co.uk."
+                },
+                {
+                    "Value": "ns-239.awsdns-29.com."
+                },
+                {
+                    "Value": "ns-595.awsdns-10.net."
+                }
+            ]
+        },
+        {
+            "Name": "blogdaquemdisse.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1354.awsdns-41.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets109": [
+        {
+            "Name": "boticar.io.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "67.199.248.12"
+                },
+                {
+                    "Value": "67.199.248.13"
+                }
+            ]
+        },
+        {
+            "Name": "boticar.io.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-608.awsdns-12.net."
+                },
+                {
+                    "Value": "ns-267.awsdns-33.com."
+                },
+                {
+                    "Value": "ns-1819.awsdns-35.co.uk."
+                },
+                {
+                    "Value": "ns-1497.awsdns-59.org."
+                }
+            ]
+        },
+        {
+            "Name": "boticar.io.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-608.awsdns-12.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets110": [
+        {
+            "Name": "eudoradigital.com.br.",
+            "Type": "A",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "104.41.13.179"
+                }
+            ]
+        },
+        {
+            "Name": "eudoradigital.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1990.awsdns-56.co.uk."
+                },
+                {
+                    "Value": "ns-1445.awsdns-52.org."
+                },
+                {
+                    "Value": "ns-399.awsdns-49.com."
+                },
+                {
+                    "Value": "ns-699.awsdns-23.net."
+                }
+            ]
+        },
+        {
+            "Name": "eudoradigital.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1990.awsdns-56.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "eudoradigital.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"euddigital.azurewebsites.net.\""
+                },
+                {
+                    "Value": "\"pn3ocb3eb7lrblael8k1sif7tg\""
+                }
+            ]
+        },
+        {
+            "Name": "em5771.eudoradigital.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "u9415199.wl200.sendgrid.net."
+                }
+            ]
+        },
+        {
+            "Name": "he.eudoradigital.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "euddigital-hme.azurewebsites.net."
+                }
+            ]
+        },
+        {
+            "Name": "s1.eudoradigital.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "s1.domainkey.u9415199.wl200.sendgrid.net."
+                }
+            ]
+        },
+        {
+            "Name": "s2.eudoradigital.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "s2.domainkey.u9415199.wl200.sendgrid.net."
+                }
+            ]
+        },
+        {
+            "Name": "www.eudoradigital.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "euddigital.azurewebsites.net."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets111": [
+        {
+            "Name": "fbpn.org.br.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "10 mail.fbpn.org.br."
+                }
+            ]
+        },
+        {
+            "Name": "fbpn.org.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-488.awsdns-61.com."
+                },
+                {
+                    "Value": "ns-1339.awsdns-39.org."
+                },
+                {
+                    "Value": "ns-1742.awsdns-25.co.uk."
+                },
+                {
+                    "Value": "ns-978.awsdns-58.net."
+                }
+            ]
+        },
+        {
+            "Name": "fbpn.org.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-488.awsdns-61.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "fbpn.org.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 mx ip4:200.186.3.0/24 -all\""
+                }
+            ]
+        },
+        {
+            "Name": "_0b83fe5dda3a3c09d2cb98670b6b6989.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9fffc05e217a68672052c455c616a15e.ymrbdtpxcr.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_0d49e42e330571e6f05f29fc1362fec9.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a68ebb9e1e43ef221d101b2229d06405.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_0dded40cdcc65ad34a2b2c5bd119ba55.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_bb7a0c7e01b6bdae384fb2d07d544bec.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_10dfb422e354e748db5e16ecd2b9a0fe.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_904974ae504c7509429d63da938860b4.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_14d76d420fa72851f54f5a2e63ebda7f.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_51c6368b7557656dfdaa25321176fa65.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_16d387c5abb79c0c4767950576ad0a5c.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_871ab5997365ebbde3652d0ece4e6326.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1c06f99b75629bf4ca6326627e848a2a.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_dd1368ffad682ab36af2ec1039c4804b.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1d3311eeda301ddfe32635d8fb3d724a.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4ac4cabdcd66b9024059c6c6f5af9057.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1f66b9d472a7521e5666d983d72199bd.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_55e7990f2366e288e27e2f36fddf6115.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2141d3a6bf8eca1bbbe949374325d733.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_127a273aa7e24601383760a40104955f.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_24781261c27395be623c5c972cc4a5f2.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_057e42e2dbc5d29440053d53d7f08953.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_265dffe76183fbae585c0a245476e1d5.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_148b0fc4f3de50776d4d52991b702c88.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_271cbca42158e2cbe1fb0903a97fad4f.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b6bac8af56c36e2e4256fe80d02afb20.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2badbaeda1c32a48b510029ca89880a5.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_57f108e864d00ae802ca1c92f5774fd2.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2da2e8deb4e97a989a5950b223eac863.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_61a573b8b419539bbc071ba65b6de82a.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2ed27d194809618d26595dc26965e124.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_74ce5a7e3c5d9fcb6aa2c0d527779e29.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_328942184cee7d58d1494312b064bfeb.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_606dd1fad55c9e48a4e30d35d4644fa0.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3323301178db5a71da2a1d56f9700997.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_70cf865a99d53216548a9dae608c9206.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3b235df9b5f5ab2211113f37b2598f99.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_662f52b1f5a6dce7f32752201419bf0c.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3f4400a49b275e5a9548e9efc8c8a2a4.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a036a601b43cbad967c76faa95b9f52f.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_41245b0a7c8ae31b022038203a47097e.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_fc014efd7a2c1e33e172d6b78e66edf8.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_41ef03d3275d3c755c67a81732bc7385.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1b82be3d235ff8e3a341e16e2fe281f9.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4245cbc9a7a565444078301fcd62a905.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_939029f1e64e24bdb4f164a34bd364cf.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_44ec8bba24a80aaae84ff711924e6e8e.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7f3bfd13445e3efe6938f6f016552bbd.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_46f6c0b0fad54f96661b8bc26144b04d.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6077d9ab6e48a0fab428e028c792d571.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4cf1eae953409929da98482102c3e8e2.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a01e542ca0c005b1354950bba4096fa8.chvvfdvqrj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4de17caa5b0859a0077bddb320fe10df.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0ae3c425a8512b3fee140ea5f5a93c15.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4eb66218e78a6a3ff038c18e452ffdbf.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c978ba00df7f306d2ca427420a220f04.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_50dbf56624e29fa812259c89eb0b514c.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9e94394f483c9d809b3ea8982cba63fa.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_527936dc4a4a4e619ddec42fe9396052.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ef8f3c253c7f4e06c7441b9a2eaa5aef.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5334f3a64262255ee3a7fbd52156ab7a.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_117dc5c24ba26ac519c1399109d1f0df.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5432d49635745f34e9efc3c2f4c1d0d9.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_024c359fe5c4259e8691b89c1c39039c.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_54a8974da74101adb20f5a8243c824f7.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_45bc34e77469d565c93eeab18217b24c.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5703c97baa10d908ad2fdbfef35c88a1.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_09edd4c0cc0789d4b0736dd7ab59f7ac.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5843471378fd62aac67c07e7e10390ee.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d307508fb0dec6e626c9bc6e020c2b93.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_60ac7fb4adc8af7db5a0e364bea1d4cc.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_dfa6b639d51da0f7117b4314a4d7880a.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_61eab0d1f59f40be8a4c21f13481095d.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_93acda92cb8b5270070d67a7145029ad.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_69818c8eacf638fec7a39b65d1c96480.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1b8ac07e25221fd170f53577ef5f93ee.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6c3ec4e1249934a2fb4a833d604fe895.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_58d287a3277b13e4da28d370eabc388a.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6d96099ea720095db505d746915cd25a.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6e3518eaa0affe0c8dd9f7dc7eafa688.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6fd290db1034c889d13f63fe31d07275.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_617b3b3a423aed6da6d2d32684aaeffe.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_70241f7517453905814b3b3beee6fb62.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2adf36ddb579d528d30b3917086b02c5.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_75b31f674a4f218f20018d259c6ac324.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ad751cb463474ef4ca6e8d9349d2ab52.kzhndfqvzk.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_762141f568fd42f4a78181fb1e799594.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4abb85b620d85ab5101c5278b08b89a7.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_765cd9fec8578dacba6da0e8186bd8ef.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_cbd0f60f53548e4a59d97278b56f7f78.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_781c551e74b5454e3f08067028acd53d.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4e8fcfb6de09cfe3875837d3c54557ac.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_794e30212c6a89f0c1fa3a57b9b9ce1b.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1764236d789d4d8af9cbd60ed9d70a06.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7c33a47ce4bf07d6944957ebea62e0bd.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b32c2c1050ee3c8434374500ce498a98.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8001bcdbacc4f981860398bd46ec5c9e.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7193e02a0a8043b256bcb72c75caa22e.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_821b5d315bd25a08a43930725488876f.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d773db15928d252918aaeb899a887f51.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8539c8e9c1547b4a535ba23f25009f68.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0890c8fb814901c6e01b490e4cdc2480.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_85702eb8101d02e4adc017de9cd2f192.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_27b2e715513d2d47b0d0e0e652a62cdf.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_85c8718ed8fe0a1a31db82fe17c94b0e.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_653eaf8a02ddcc058fe78444bb9e10e5.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8982bbd986282c6ab6b854d179e3c8a2.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0eb9c37d037007b36a03e5e22f1ccf30.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8a3edff351fbe1cfbadf8c0bb4c0b768.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ae79123c38295268dfa9d17659138815.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8d5c74f8ba4b14b127e9637f04e0fc2b.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_bb0e0d3641100bad78fe01b85bd4f68e.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_92ed3127af33b89494710add92c2f643.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_606951fe803e99f999a4c01c24d07501.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_969c81cb5f053e2544da7d9bce47a67d.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6471e8d7b7321799cb4db4de9b1c5d69.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_98039d9e3c18d51fc505ddff6e62cd1c.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f723b9ebea0e02511224eaeb91dc6ff6.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9e6baaace8c51875a64a600881d1e306.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f44979c8dee4f82cd444115aad6e8268.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9fc0b09500fb472aaa2b9b0f38b3dada.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4b5d410f8fae9cc6c3b73ba1acbeecf2.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a4d8f7ecb5fb05204e7f4943c76f08de.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2c1ab168eb9d2763da25f557d5e05398.cnsgthfrdk.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a63975adc27d3421738561d79344239f.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d200b6c0eb5887c988444116dbac2008.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a6a84a752a2a8ffb33f6709160e3a07b.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_156af13a8bba8d14c21d5cdcac74de71.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a910ccc2198bff2698ea7ba4af6cb1aa.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_27276cb76803125eea79c136a227738b.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b1011f645108fd01e00244f89d762301.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9cd26591b6ed32fb49fc82793062a39d.bwlshdtstt.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b12b800ca8bf9fd144052014778b7680.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9d1a959d1784a9726d229ef0b7ea4f1d.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b40b4f695a66aa3e965d294f2bdfaed0.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_84fcbeadc135df261a3fcda83de2dc62.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ba111e623f608f7bb7498e9ba531cba4.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_858be4e15f1b9d35dc11665f800607e4.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ba35dd5b8ef756014098072e9eac53bb.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a4393e7efed8f145b9a2849cd6b2dbee.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_baa7d45b96be5209038c4fec4565c89b.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_cea86c2d7066c8f9f5bcb5c75d9c87d6.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_bb66e21ab742d8b7ccf750b57503e581.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_470aae423a544c828d4ae3eb92b42399.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_be0d2541fd72c469bfb517a4af796c6f.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7cc7f47762eda18da524b566c45f4b54.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_be7343ff4e44d86354a9ed2804574199.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_40ac23eaeaefee240322719f296ef6b0.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c1fb5b410bcc7195a16d8cfc432eb8f2.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_33c32fba0417b35df6a253a955191d3f.gbycpywhzv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c2454361c38873a6b030552dd1a9bb9d.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_71750e6f56309f610d070fb629a9ef95.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c8e525595a6648789ad207668ec0b15b.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_88cb403c2fd8f32ff95ae5474cc6df16.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_cc73f6607501e9854ef8cf7832496a9d.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_fccb2a236ddefdf6b1b0c32fc208d0de.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ced861a331a89715d57f30e0ef3b282e.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e353604e08efbc969ce9c085b7f2b9e0.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d4a676a23fbc2cad3d0a2e66f063004c.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ce2867d437ae02dece221f5365a76e84.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d7ad81dcc9d973738c2baf8043fbc90a.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3823be4ee5a814d2a1ff79479dc5c013.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_dc58a9b1e13c3cf1bfb4cb4577e3c232.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_76e1d4e11f783cea231a16e6cfc17589.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e0450f6c462fbd5b87acf5a84ab7f9e2.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_de26958d9474e1bef6f90c8705870f0b.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e41dd638870117a95ac6f45caa68fad3.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b14c0c4758f2f6fa39505b9d45dd73e0.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e6f4bd6c440e6dcda8618bfeae7ad179.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_90eba8df2f682b1946197faa2d7b3b1d.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f1a54a174dff9a042c60efe53c563b5d.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5ae7cd00ede1fffde7e592979da36f28.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f273b9c19a507cf57a3b48048f4d2082.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7fbd3aafb5710590a347e856ed1fa9bb.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f9abae9485c4a574cf0f9192de5499ec.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f03c18ae6ee660aa3e1ca2ffca8ed1ca.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_fc3585fcce3831bd8e4e9f4f126ba4c8.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_2f6b5b36743624418e75b77179474f51.gwpjclltnz.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_fc8d9f855b8af1a32b5a35e89b48f89c.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_34a07f3765fc89425ba8bdfdf9b31caa.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_fccdaa78346a579aefe4a348afc1de0d.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e0e6c1535134a5db277d2403f5bac5d0.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_fe4e44e65422a14e9e3536585a7643a0.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2fbe7b7e5a457b4b003a4dae38e2322b.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "deai-meu-chapa.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d3uakfe3w1nm5l.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "eai-meu-chapa.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "dnadjn0kefe2e.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "heai-meu-chapa.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d8koxrt73vfus.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "hsisger.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d1uye9biw9d476.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "sisger.fbpn.org.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d2c6pt5ayd92xc.cloudfront.net"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets112": [
+        {
+            "Name": "querotrabalharnoboti.com.br.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z2FDTNDATAQYW2",
+                "DNSName": "d1v4zq4prnf63z.cloudfront.net.",
+                "EvaluateTargetHealth": false
+            }
+        },
+        {
+            "Name": "querotrabalharnoboti.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1986.awsdns-56.co.uk."
+                },
+                {
+                    "Value": "ns-1056.awsdns-04.org."
+                },
+                {
+                    "Value": "ns-852.awsdns-42.net."
+                },
+                {
+                    "Value": "ns-123.awsdns-15.com."
+                }
+            ]
+        },
+        {
+            "Name": "querotrabalharnoboti.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1986.awsdns-56.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "querotrabalharnoboti.com.br.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"m5w964fh06w9j0760y16sldwwshf9kp0\""
+                }
+            ]
+        },
+        {
+            "Name": "\\052.querotrabalharnoboti.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "www.querotrabalharnoboti.com.br"
+                }
+            ]
+        },
+        {
+            "Name": "_318b544216d95aa179a4ded9cae9b4cb.querotrabalharnoboti.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_e1079c6bb68450142ef575e06e8a1818.gbwdrhjxvn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5d4e1407385f383119fff2e9170f0a66.querotrabalharnoboti.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f2c2fbfc9b6d099c51be067148fe77ed.duyqrilejt.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_84badff3350a2d8e476be2cdbca6f826.querotrabalharnoboti.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_59cb2c81d9c77a1672bbe0c0ae26d18e.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_95d41e924de847884b64c7fe98853f65.querotrabalharnoboti.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_bc04bca3e84aa6f5335d0bad7f04b51c.duyqrilejt.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "h.querotrabalharnoboti.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "internal-lb-iisdmz-1878990935.us-east-1.elb.amazonaws.com"
+                }
+            ]
+        },
+        {
+            "Name": "www.querotrabalharnoboti.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d1v4zq4prnf63z.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "_95d41e924de847884b64c7fe98853f65.www.querotrabalharnoboti.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_bc04bca3e84aa6f5335d0bad7f04b51c.duyqrilejt.acm-validations.aws."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets113": [
+        {
+            "Name": "toquetocosmeticos.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "141.193.213.20"
+                }
+            ]
+        },
+        {
+            "Name": "toquetocosmeticos.com.br.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com."
+                }
+            ]
+        },
+        {
+            "Name": "toquetocosmeticos.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1162.awsdns-17.org."
+                },
+                {
+                    "Value": "ns-168.awsdns-21.com."
+                },
+                {
+                    "Value": "ns-726.awsdns-26.net."
+                },
+                {
+                    "Value": "ns-2011.awsdns-59.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "toquetocosmeticos.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1162.awsdns-17.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "toquetocosmeticos.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"MS=ms42200922\""
+                },
+                {
+                    "Value": "\"tmes=0f8d8c157190636fd3c60b3b39ab19e2\""
+                },
+                {
+                    "Value": "\"google-site-verification=_7TgE4-c2Bkk760xdflohEWItt3Yq2bleKeN0K-AhGM\""
+                }
+            ]
+        },
+        {
+            "Name": "\\052.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "qk357ol9l3sj.wpeproxy.com"
+                }
+            ]
+        },
+        {
+            "Name": "_a2f72a850aef37f4ff9246dd877aa51e.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a1833b4d883b78d87be573a76b0f97f3.qwknvqrlct.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_da3c2367d0bb2aeea8e63e139d1920c4.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e66056e3cf4afd366c79718ca1f79839.qwknvqrlct.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "agendamentoservicos.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "dz37fau1zixso.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.agendamentoservicos.toquetocosmeticos.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"rg/LcDtf//Kdferv1zn6OqvL1rawHo6lYVm/GwpVSMo=\""
+                }
+            ]
+        },
+        {
+            "Name": "e6oaunqoxttg74zpj2sfm2l6n2xdiwzi._domainkey.agendamentoservicos.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "e6oaunqoxttg74zpj2sfm2l6n2xdiwzi.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "hjsvoasam2tnhzbqkksfp76l2jizb7l3._domainkey.agendamentoservicos.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "hjsvoasam2tnhzbqkksfp76l2jizb7l3.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "zt7znes7vdu6wmji7icfqonuj4sqbdik._domainkey.agendamentoservicos.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "zt7znes7vdu6wmji7icfqonuj4sqbdik.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "_e6ea41fc15fa8ce521ecf55855e4564b.agendamentoservicos.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_cd4fd6594403b50f3362845026476a56.qwknvqrlct.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "guiadigital.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "viewer.ipaper.io"
+                }
+            ]
+        },
+        {
+            "Name": "hagendamentoservicos.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d3pqbmyrn8uus4.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "_40541d31b696c73869aa60e31f218cb2.hagendamentoservicos.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_db9641968a8403dc3fac964c8cd07cbf.qwknvqrlct.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "novidades.toquetocosmeticos.com.br.",
+            "Type": "NS",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "ns1.exacttarget.com."
+                },
+                {
+                    "Value": "ns2.exacttarget.com."
+                },
+                {
+                    "Value": "ns3.exacttarget.com."
+                },
+                {
+                    "Value": "ns4.exacttarget.com."
+                }
+            ]
+        },
+        {
+            "Name": "www.toquetocosmeticos.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "qk357ol9l3sj.wpeproxy.com"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets114": [
+        {
+            "Name": "blogdabere.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-2013.awsdns-59.co.uk."
+                },
+                {
+                    "Value": "ns-627.awsdns-14.net."
+                },
+                {
+                    "Value": "ns-1057.awsdns-04.org."
+                },
+                {
+                    "Value": "ns-374.awsdns-46.com."
+                }
+            ]
+        },
+        {
+            "Name": "blogdabere.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-2013.awsdns-59.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets115": [
+        {
+            "Name": "blogquemdisseberenice.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1036.awsdns-01.org."
+                },
+                {
+                    "Value": "ns-818.awsdns-38.net."
+                },
+                {
+                    "Value": "ns-1694.awsdns-19.co.uk."
+                },
+                {
+                    "Value": "ns-395.awsdns-49.com."
+                }
+            ]
+        },
+        {
+            "Name": "blogquemdisseberenice.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1036.awsdns-01.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets116": [
+        {
+            "Name": "boticario.com.co.",
+            "Type": "A",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "209.172.62.224"
+                }
+            ]
+        },
+        {
+            "Name": "boticario.com.co.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-835.awsdns-40.net."
+                },
+                {
+                    "Value": "ns-1266.awsdns-30.org."
+                },
+                {
+                    "Value": "ns-1868.awsdns-41.co.uk."
+                },
+                {
+                    "Value": "ns-320.awsdns-40.com."
+                }
+            ]
+        },
+        {
+            "Name": "boticario.com.co.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-835.awsdns-40.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.boticario.com.co.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "209.172.62.224"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets117": [
+        {
+            "Name": "clubevivaoboticario.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "186.202.39.11"
+                }
+            ]
+        },
+        {
+            "Name": "clubevivaoboticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-67.awsdns-08.com."
+                },
+                {
+                    "Value": "ns-1007.awsdns-61.net."
+                },
+                {
+                    "Value": "ns-1945.awsdns-51.co.uk."
+                },
+                {
+                    "Value": "ns-1424.awsdns-50.org."
+                }
+            ]
+        },
+        {
+            "Name": "clubevivaoboticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-67.awsdns-08.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "clubevivaoboticario.com.br.",
+            "Type": "TXT",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 include:_spf.umail.com.br -all\""
+                }
+            ]
+        },
+        {
+            "Name": "dk._domainkey.clubevivaoboticario.com.br.",
+            "Type": "TXT",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "\"k=rsa\\; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDnGyv9+/SiL+DTfZvSGiWw+Zc2dn6P9M8/VNTCCNVXhsSmuTnZ08rKwLsEWzlce+Q602ZTyLNjdZEen88DV7+a4hjatEWlqS95ffaFO2FotiMl1eX8xt3t9A4tEaxYXIkswK7R0PlWCU2zC8yd9dqdVSwNPzwgRKXtn9Jkc1cxmQIDAQAB\""
+                }
+            ]
+        },
+        {
+            "Name": "www.clubevivaoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "clubeviva.boticario.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets118": [
+        {
+            "Name": "fundacaoboticario.com.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-443.awsdns-55.com."
+                },
+                {
+                    "Value": "ns-1336.awsdns-39.org."
+                },
+                {
+                    "Value": "ns-1952.awsdns-52.co.uk."
+                },
+                {
+                    "Value": "ns-726.awsdns-26.net."
+                }
+            ]
+        },
+        {
+            "Name": "fundacaoboticario.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-443.awsdns-55.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets119": [
+        {
+            "Name": "gkds.com.br.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com."
+                }
+            ]
+        },
+        {
+            "Name": "gkds.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-261.awsdns-32.com."
+                },
+                {
+                    "Value": "ns-563.awsdns-06.net."
+                },
+                {
+                    "Value": "ns-1094.awsdns-08.org."
+                },
+                {
+                    "Value": "ns-1873.awsdns-42.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "gkds.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-261.awsdns-32.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "gkds.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"MS=ms10133472\""
+                },
+                {
+                    "Value": "\"zNXucRzvWj0X2TiSOUNttPsyy/btZc4Z2V94FxA8N4WjAJfRhoV7Jn6K0qmYwqBuW1/xn7oRHtz8clFx79L2ZQ==\""
+                },
+                {
+                    "Value": "\"tmes=26776f06b6342ca9ff44a6ea241d3ab4\""
+                },
+                {
+                    "Value": "\"v=spf1 mx ip4:200.186.3.245 ip4:200.186.3.252 ip4:189.86.220.28 ip4:189.86.220.29 include:sharepointonline.com -all\""
+                },
+                {
+                    "Value": "\"knowbe4-site-verification=b22cd2dae9a296c9566567d3348a9f2c\""
+                },
+                {
+                    "Value": "\"google-site-verification=aNOTDrU-gHlunDfykCxiVsrrEXHilrnpsUEyc0HN2zk\""
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets120": [
+        {
+            "Name": "grupoboticario.eco.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-893.awsdns-47.net."
+                },
+                {
+                    "Value": "ns-1077.awsdns-06.org."
+                },
+                {
+                    "Value": "ns-1675.awsdns-17.co.uk."
+                },
+                {
+                    "Value": "ns-260.awsdns-32.com."
+                }
+            ]
+        },
+        {
+            "Name": "grupoboticario.eco.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-893.awsdns-47.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "api.grupoboticario.eco.br.",
+            "Type": "NS",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "ns1.boticario.com.br."
+                },
+                {
+                    "Value": "ns2.boticario.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "www.grupoboticario.eco.br.",
+            "Type": "NS",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "ns1.boticario.com.br."
+                },
+                {
+                    "Value": "ns2.boticario.com.br."
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4549 @@
+{
+    "ResourceRecordSets61": [
+        {
+            "Name": "programafacilita.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "52.8.174.221"
+                }
+            ]
+        },
+        {
+            "Name": "programafacilita.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1622.awsdns-10.co.uk."
+                },
+                {
+                    "Value": "ns-1022.awsdns-63.net."
+                },
+                {
+                    "Value": "ns-1357.awsdns-41.org."
+                },
+                {
+                    "Value": "ns-306.awsdns-38.com."
+                }
+            ]
+        },
+        {
+            "Name": "programafacilita.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1622.awsdns-10.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "programafacilita.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 ip4:177.47.9.154 ip4:177.47.9.155 -all\""
+                }
+            ]
+        },
+        {
+            "Name": "homologacao.programafacilita.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "177.47.9.154"
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.homologacao.programafacilita.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"oKzya_Qsq8CvI1PYrhui_TarUVL6gHMCfIqH2TDljVs\""
+                }
+            ]
+        },
+        {
+            "Name": "originakahomologacao.programafacilita.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "177.47.9.154"
+                }
+            ]
+        },
+        {
+            "Name": "originakawww.programafacilita.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "179.124.46.60"
+                }
+            ]
+        },
+        {
+            "Name": "redirect.programafacilita.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "www.programafacilita.com.br.opts-uri.direcionar.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "www.programafacilita.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "grupoboticario.com.br.edgesuite.net"
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.www.programafacilita.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"9TeM0QEFZS5KmlhcoZWDRrwwWjHyE6l3wqQ3ixgsrJ8\""
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets62": [
+        {
+            "Name": "promocaoquemdisseberenice.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-546.awsdns-04.net."
+                },
+                {
+                    "Value": "ns-116.awsdns-14.com."
+                },
+                {
+                    "Value": "ns-1405.awsdns-47.org."
+                },
+                {
+                    "Value": "ns-1990.awsdns-56.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "promocaoquemdisseberenice.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-373.awsdns-46.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets63": [
+        {
+            "Name": "quemdisseberenice.com.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com."
+                }
+            ]
+        },
+        {
+            "Name": "quemdisseberenice.com.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-542.awsdns-03.net."
+                },
+                {
+                    "Value": "ns-460.awsdns-57.com."
+                },
+                {
+                    "Value": "ns-1829.awsdns-36.co.uk."
+                },
+                {
+                    "Value": "ns-1380.awsdns-44.org."
+                }
+            ]
+        },
+        {
+            "Name": "quemdisseberenice.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-542.awsdns-03.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "quemdisseberenice.com.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"tmes=90a59bf26ad70e2857adbd1439485c1e\""
+                },
+                {
+                    "Value": "\"MS=ms93085488\""
+                },
+                {
+                    "Value": "\"MS=ms44521521\""
+                },
+                {
+                    "Value": "\"JHCScJ8H7lYXN5AFlQDdt0kJ4yW6oPikDzUUe5+PTEeChK06BxgQ+PWI+zhCe3EHn4EnTEKzU2+X4oNPZ6FRAw==\""
+                },
+                {
+                    "Value": "\"knowbe4-site-verification=b22cd2dae9a296c9566567d3348a9f2c\""
+                },
+                {
+                    "Value": "\"google-site-verification=oWll49iqECF8ZC1Br6Qq00L8hahvuPiecPA7wZ1Xp90\""
+                },
+                {
+                    "Value": "\"google-site-verification=ib6JM0l4ZwXrYBkCtjgrXoJCbWEbnosPVeD_ZzbAZR4\""
+                },
+                {
+                    "Value": "\"v=spf1 include:_spf.google.com ~all\""
+                }
+            ]
+        },
+        {
+            "Name": "_cmaconfig._tcp.quemdisseberenice.com.",
+            "Type": "SRV",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "0 100 443 videoconference.grupoboticario.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "_css._tcp.quemdisseberenice.com.",
+            "Type": "SRV",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "0 100 443 videoconference.grupoboticario.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "videoconference.quemdisseberenice.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "videoconference.grupoboticario.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets64": [
+        {
+            "Name": "servicosquemdisseberenice.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "54.174.7.252"
+                }
+            ]
+        },
+        {
+            "Name": "servicosquemdisseberenice.com.br.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "10 inbound-smtp.us-east-1.amazonaws.com."
+                }
+            ]
+        },
+        {
+            "Name": "servicosquemdisseberenice.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-179.awsdns-22.com."
+                },
+                {
+                    "Value": "ns-1079.awsdns-06.org."
+                },
+                {
+                    "Value": "ns-1595.awsdns-07.co.uk."
+                },
+                {
+                    "Value": "ns-892.awsdns-47.net."
+                }
+            ]
+        },
+        {
+            "Name": "servicosquemdisseberenice.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-179.awsdns-22.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.servicosquemdisseberenice.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"HOB+9aX0PEdYGJZ/YPp3kr9MDMYBdsn5IQvKrJNgJ6k=\""
+                }
+            ]
+        },
+        {
+            "Name": "_b1f7bb57423128047181b4a23472b4ed.servicosquemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4d7ba8c31291226829e68523129b469f.chvvfdvqrj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "cbybwa5lotofrud4oleccwfysvdmer24._domainkey.servicosquemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "cbybwa5lotofrud4oleccwfysvdmer24.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "chlj3bodamfw4lm77y3fa7nptt7jjtxb._domainkey.servicosquemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "chlj3bodamfw4lm77y3fa7nptt7jjtxb.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "m363saxs5wpbgfpqh7pprnnrrci3t6hx._domainkey.servicosquemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "m363saxs5wpbgfpqh7pprnnrrci3t6hx.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "namdj5yu2w2i2ozrp5cgwefmczf6xdua._domainkey.servicosquemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "namdj5yu2w2i2ozrp5cgwefmczf6xdua.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "woefu55gbhl6p4tmi7yag6erfwzo2xum._domainkey.servicosquemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "woefu55gbhl6p4tmi7yag6erfwzo2xum.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "zt33fz2y3kzadyddxho7m64m5fone72w._domainkey.servicosquemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "zt33fz2y3kzadyddxho7m64m5fone72w.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "api.servicosquemdisseberenice.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "54.174.7.252"
+                }
+            ]
+        },
+        {
+            "Name": "db.servicosquemdisseberenice.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "159.203.64.130"
+                }
+            ]
+        },
+        {
+            "Name": "www.servicosquemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d2lxtrnmaucd9u.cloudfront.net."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets65": [
+        {
+            "Name": "blogdabeauty.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "186.202.112.230"
+                }
+            ]
+        },
+        {
+            "Name": "blogdabeauty.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-285.awsdns-35.com."
+                },
+                {
+                    "Value": "ns-1432.awsdns-51.org."
+                },
+                {
+                    "Value": "ns-728.awsdns-27.net."
+                },
+                {
+                    "Value": "ns-1892.awsdns-44.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "blogdabeauty.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-285.awsdns-35.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.blogdabeauty.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "186.202.112.230"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets66": [
+        {
+            "Name": "boticarioprev.com.br.",
+            "Type": "MX",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com."
+                }
+            ]
+        },
+        {
+            "Name": "boticarioprev.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-14.awsdns-01.com."
+                },
+                {
+                    "Value": "ns-835.awsdns-40.net."
+                },
+                {
+                    "Value": "ns-1492.awsdns-58.org."
+                },
+                {
+                    "Value": "ns-1786.awsdns-31.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "boticarioprev.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-14.awsdns-01.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "boticarioprev.com.br.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"tmes=6ff0ec136e80ad5093cd5425d694cf0c\""
+                },
+                {
+                    "Value": "\"MS=ms57711579\""
+                },
+                {
+                    "Value": "\"google-site-verification=Hyv1m37UNu1KVkKVkkWJi4S24oqUyhlAwTKZpTvTyWs\""
+                },
+                {
+                    "Value": "\"google-site-verification=T6F7PJVoGsHtEsT5sJErJc6bTozV1N7T11JKcA5QRJY\""
+                },
+                {
+                    "Value": "\"v=spf1 include:_spf.google.com ~all\""
+                }
+            ]
+        },
+        {
+            "Name": "ipisp01.boticarioprev.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "200.230.42.14"
+                }
+            ]
+        },
+        {
+            "Name": "ipisp02.boticarioprev.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "200.230.42.84"
+                }
+            ]
+        },
+        {
+            "Name": "ipisp03.boticarioprev.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "200.155.107.10"
+                }
+            ]
+        },
+        {
+            "Name": "ipisp04.boticarioprev.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "200.155.108.10"
+                }
+            ]
+        },
+        {
+            "Name": "www.boticarioprev.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "vps01.eurekapublicidade.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets67": [
+        {
+            "Name": "espelhomeu.com.vc.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "54.232.94.50"
+                }
+            ]
+        },
+        {
+            "Name": "espelhomeu.com.vc.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1474.awsdns-56.org."
+                },
+                {
+                    "Value": "ns-1914.awsdns-47.co.uk."
+                },
+                {
+                    "Value": "ns-524.awsdns-01.net."
+                },
+                {
+                    "Value": "ns-469.awsdns-58.com."
+                }
+            ]
+        },
+        {
+            "Name": "espelhomeu.com.vc.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1474.awsdns-56.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.espelhomeu.com.vc.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "54.207.5.140"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets68": [
+        {
+            "Name": "fundacaoboticario.org.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-149.awsdns-18.com."
+                },
+                {
+                    "Value": "ns-1855.awsdns-39.co.uk."
+                },
+                {
+                    "Value": "ns-899.awsdns-48.net."
+                },
+                {
+                    "Value": "ns-1360.awsdns-42.org."
+                }
+            ]
+        },
+        {
+            "Name": "fundacaoboticario.org.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-149.awsdns-18.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets69": [
+        {
+            "Name": "institutokg.org.br.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com."
+                }
+            ]
+        },
+        {
+            "Name": "institutokg.org.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-649.awsdns-17.net."
+                },
+                {
+                    "Value": "ns-380.awsdns-47.com."
+                },
+                {
+                    "Value": "ns-1694.awsdns-19.co.uk."
+                },
+                {
+                    "Value": "ns-1220.awsdns-24.org."
+                }
+            ]
+        },
+        {
+            "Name": "institutokg.org.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-649.awsdns-17.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "institutokg.org.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"MS=ms80764653\""
+                },
+                {
+                    "Value": "\"1PtnZzcLAwgyjeV4K5sb8vpscgLQfPyhOG8DsYpli/4tXNDUZl0qidi6sR4G8hjVa1CqaJJCt73zXcKzJoplKg==\""
+                },
+                {
+                    "Value": "\"tmes=98da35fd412ab919d887f245ab479326\""
+                },
+                {
+                    "Value": "\"v=spf1 mx ip4:200.186.3.245 ip4:200.186.3.252 ip4:189.86.220.28 ip4:189.86.220.29  include:sharepointonline.com -all\""
+                },
+                {
+                    "Value": "\"google-site-verification=ERuoxjyNaCRLJz_1mX_DdReAuSoGZnZ_cdJJv8lcIoM\""
+                }
+            ]
+        },
+        {
+            "Name": "_autodiscover._tcp.institutokg.org.br.",
+            "Type": "SRV",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "0 0 443 autodiscover.institutokg.org.br."
+                }
+            ]
+        },
+        {
+            "Name": "_cmaconfig._tcp.institutokg.org.br.",
+            "Type": "SRV",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "0 100 443 videoconference.grupoboticario.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "_css._tcp.institutokg.org.br.",
+            "Type": "SRV",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "0 100 443 videoconference.grupoboticario.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "_sipfederationtls._tcp.institutokg.org.br.",
+            "Type": "SRV",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "0 0 5061 sip.institutokg.org.br."
+                }
+            ]
+        },
+        {
+            "Name": "_sip._tls._tcp.institutokg.org.br.",
+            "Type": "SRV",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "0 0 5061 sip"
+                }
+            ]
+        },
+        {
+            "Name": "videoconference._tcp.institutokg.org.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "videoconference.grupoboticario.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets70": [
+        {
+            "Name": "oboticario.com.co.",
+            "Type": "MX",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "0 mx42.allin.com.br"
+                }
+            ]
+        },
+        {
+            "Name": "oboticario.com.co.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-43.awsdns-05.com."
+                },
+                {
+                    "Value": "ns-1899.awsdns-45.co.uk."
+                },
+                {
+                    "Value": "ns-1101.awsdns-09.org."
+                },
+                {
+                    "Value": "ns-800.awsdns-36.net."
+                }
+            ]
+        },
+        {
+            "Name": "oboticario.com.co.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-43.awsdns-05.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "oboticario.com.co.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"_globalsign-domain-verification=WYYHW5P-MIkWLmVWL1ctuC2lmneAOlpoQkm17szVW2\""
+                },
+                {
+                    "Value": "\"www.oboticario.com.co.cdn.vtex.com\""
+                },
+                {
+                    "Value": "\"globalsign-domain-verification=ef1003e490a231b21dcbc06f7e9d2953\""
+                },
+                {
+                    "Value": "\"facebook-domain-verification=yhcllgb0hr9tl1rui33ooqksv18hfl\""
+                },
+                {
+                    "Value": "\"v=spf1 a mx include:spf1.auinmeio.com.br include:spf2.auinmeio.com.br ~all\""
+                }
+            ]
+        },
+        {
+            "Name": "_033e19c84c9dc6c3baf012867aa6f736.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9e97be36371db576d0cc2bf59a0ec7da.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_0607f601e0e6fa6b050660520790eadb.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5d5b711960fbc08bef1cf327a7fa9476.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_07f3948e50ce1f2ea5f7319db2f0c9fb.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_038e7d73dbd75ae43c854fdc61e0e024.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_0eb5822f3579cb03e68fa144fdd6876d.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1694ce9016b78307e73c4e74df9ad669.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_105731c2cad18586b86f7848bb4c011f.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0d61ca2c48851eeca2cb1bf6745561fc.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_11a5282e80ebec6c48d7511429d2b384.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_aca73d785cbe6523fb2b67f6864b2cce.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_12ea7400a8aee747012a2f4ace5e55bb.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_92d5e734fc1dcc581f863cbcdbc2d85c.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1a2a87162a5eb7cc65e639c9df941375.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_bbb82497f3a290279e4e2887339b8177.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_204c1931bc059ca8c0f3909b6a896483.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2c84e21390f8ee603a43ca8d41b3afb2.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_23ead9d5ca8c9ff09e99df7715bf6a49.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5c51f2d6d8a8b4861f9d02ec723383a1.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2b5a4105bfa81bdf6fcfafc75a6417ae.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_79f6fa64c3320f4e90a2eb317d91dc7f.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2bb22dccaca58f754b6decf0da31dd15.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4084ff8dc353ad68ec805d9b9c000bc4.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2c9f4b22ced70a0b62c879e1d22381ae.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e53147ad9c0da5f110dadd98e053db2d.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_30eee72fe2b891ef2f4642954704067e.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9183d6be3843f8e0ed429135e8bcc3fb.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3ac1cc59a352128ac49768f149321b87.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a8d64f904a6740388984493fd0fc0039.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3b324522915a7f6a528c88a8b1d733dd.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_70542b609366036893e07721f728cd0f.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3bc8c3c4723ed0d7376c91d3d00dd3b0.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_519877fc0a0f22a72c4fcaeae26f148d.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3e4c9f2b629447bb18c100f83829dbc6.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5da15ed760be4cb50cbcc10b466181e2.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4600f9224085b734bb782e0d6dbfd322.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_caef143d171534cacad05ac04279ba57.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_472307e67683f4b1332d73b93e22b190.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6e888604979b41f0c4561ceba40919cf.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_49853243efeaa72a0baacd930065f151.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0b80daeb9a46b8a4c075c296f705a95f.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4be284987ece7307d4f62d145988767f.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5457467b73dffcdcb1a50cbf237963d7.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_50103257ae3a36d97eed9110c44382b7.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7a9b20c31986c2a9d9869a3d59806345.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_50943ca43777e655360307452ca6d547.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6e4b0e301b02f28f3e5dae09a913b2ac.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_50abfb5c4914b755d7822df36512183a.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_f6196a8b8772ad0e3418f9c766f79598.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_536e3b704a653de75e70c77d9fd87f6c.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_342d80ff4cea1154dd26237647ef3c89.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_54cb5d3349ed29d756eadf571345eb84.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4f6b5f0c23869e77ca6e474c413d00b4.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_55a64066d0b7278314a0fc6361d44003.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b6b8a9b4aaa988e15487abafb323b49c.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_56fdcefad56aeca9db5b10a3045d051c.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_63695b0cf58c10ce0ff6385a613c1062.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_575524bb0ca73e58bec847b3de4c2d53.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_78744693ee8a19bbc30710865ab47127.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_58211f39b3e0668b74475ee37e5f939c.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b967502528ee3a118c90afff560a8c04.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_59660f850076ccc5607fdfecd54b7d47.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_084bfbf36415d753e9df1db36c87130b.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5e02159fe43eedfacd105009cf61329d.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1bf25ff1775c96b993bef1f31fdbec06.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5f2a26e9ad70e51fe06839dc9bb91f74.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6c52e86859e5bd4c53650fc49cb05d85.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6299c5f95e37a36203916efa99949895.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c3d1fb3937cd282032875194652965ff.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_65202d2e7243dd6f8361989f7fc5e83a.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0b78897a6e815ed4f547249feb9d75a1.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_65ad58770487abc0cb781e2400fe46a7.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1cbaa70ed7cb0de3cd8283bd39e99e86.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6798889bfa90752ab9752eb3795fb8b5.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6e45e9c0539f8700574b2b3d92bb4e0d.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6a21e299226f0e1b5c272978b989bf60.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_19c8a886b8d3e64367a02fb8cbee3603.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6a8e16a7f232c95b3352701eddc131bf.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d9a1d22dac1f06d89b1807bb940dc3a3.kzhndfqvzk.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7095dd064baf2c359eec005292101455.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ae872fc2627149dda1e4404995b32628.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7115b4d2df52a8402398c3d47bcd5793.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7d9ccf956adbe3511a0d5ed9ce18d0ab.cnsgthfrdk.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7259c3759f16542583e9ef9b872cedc3.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4914902ffe88379e33b0d5403f9305ab.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_73cf4445035a5a6691572f5daec84027.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_19f9f9258206ef5bd25d3ce8509d37cf.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7800c563c159195b911ad01e1f2668ae.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d19474836e0a96a53a59883aedb8067c.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_78f918b2d2b9a531dd15d68372f573c7.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_86044c80075be95d103c1abf7a7c4771.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7a218add6fa7eabb0f172b16f440e493.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6ef06ec98b413155f217122453c127c9.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_845e1909236f78ef5ed7cba31e0f5f47.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a5067d4772ec482bf399103851416a68.chvvfdvqrj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_88229a8ad3dfe8223430fb4ebb7538f2.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0b3ea5888f1698192bb0ae4e0360aa1f.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_883bea53f4c4bb88aa1a9ac572be0bc2.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_98325fba8fcf0936de86eb7e040c93bd.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_88c7f2c98a524c91264f0896be100e18.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_07031c3588a223b86a5279bc79429db3.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8949f5fa10324f0198416b72c836d1de.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0c7e060f512a4c40dc62472f5ccc420c.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_89dc7c072609ec3211a3ecd25fa59013.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_07ba9c66b04fd738b2c471f7a0cdf185.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8d56c5dd9045d813d8fb4818a3c0e066.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c9c2acc0bf721e2209d0dc2f858181e9.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8e85ee412101401eb47c6e100e84ad75.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5a8377f24432d697ede320abee4f8839.ymrbdtpxcr.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_93c2ddd20fc96e107b36db75cea906f7.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4c1e3f6303b04fbdaa79b415aed930df.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9454c7126d354a7b3a9bf3bc409039d9.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b548c27f49bd62c6826abfade2ea256f.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_94787bd9a01afee9ac659abeabd0ae4e.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_47937e99277f4980272ecfe945dda740.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_94e8551d837078c62948cc67c9ec6edf.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d244b6437c066da011f31debde3cec51.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_98bff8104347964034a580c2f45c0a0b.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6c81df62cf38b5c09aabf4b7521e6dd4.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9af73b3fe5c0f894bfa875393c1b47c8.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3ade5e19ac716641c8895ed85b49bd81.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9be25271e011a66061c457fae50b115a.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5a22ecf4c7d382938d7693609090599b.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a5904deaf93f451469fb8cbd122d93d7.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_568038313c3ac14fe1d39c562f532e73.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a7666b08fc6516ab2815a21ccf6dd95e.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1ff571af9dd7e90a98ac2502886c23f7.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_aa613fc702c393b082185f69aedc9e30.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1bc91c0aa7031b41ab57c7e0fff78a7e.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_acd8080112dc1d598e2b8bab599973b4.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_91d5d422e570f7edce877ec77de81abe.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ad3322c725fad14341910715e4899819.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d56fb63ec33619b9241edb1072608e64.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_af42e3d2c6104a5eb14084543045925c.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9fbd0b6582bbb99812d769e4589e4ba6.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b0fddcdf4dfe3899c8161ed3e07514a4.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4ccf935b998d2ace523f688b70ce0f37.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ba9a014c82a73573082538e811fb2f54.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9989770c43b2b53bb7768283d458b84d.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_bb9916c01f4351b0194fea6d76bf45fb.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e2f23dbc6dc60f6d6eef88e09ec72ebe.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_bbdefcc724e5cf74bd3a286977eb4c5a.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e4157641b26ef911449885651ef3fc53.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c136df46e46f782cea0fceffdc4c0bb2.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_dec8e6b2de8bedc096a323cb920cdef1.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c47e25fc2714ab8c560cb3d5f4d73a49.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_8357fbc9a9177ebaae2bebb81435ab89.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c614b5dc663607ceb66bb22e6bb359d3.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_dd6a34ef665b31661be6866dcd9052dd.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c9c9834c5203cecb236a3bd584aad06b.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6807da22663adaeca8919805521c3c59.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ca3ac46112a027d1d133fc35adf39446.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_641dcf15a80cd8355856d1a1c05177fc.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_cda3ac3cff34c4507b4f8accacda618a.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4c20974cb56b88ce63712c3a4cf3995d.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ceef6f86189c29a3f1844a6134ab4529.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_fba0c8cfda8e60565619d7ab68777251.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d0424152bdf38caa769680c123fb3149.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_28b3e1b81510ba07b76a12f65d42f6d7.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_da59dbfa08572c4731b27c4e57fa3f2b.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4160920e717d5a8173e899824872579a.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_dd2d9dfe2b69803b92aea52f87a1b5c8.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7c37f489c46c32bc1b8dafe6b523d168.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_dfd048b27d15e95966dec8d7521d2113.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_19eef5d8cf9328775fcd3f1bd01256a7.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_dmarc.oboticario.com.co.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=DMARC1; p=none\""
+                }
+            ]
+        },
+        {
+            "Name": "mail._domainkey.oboticario.com.co.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"k=rsa; t=s; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD1L3rYdOD1JjO6TDBYhDHA6rz/0x1HkYovwYHbZYcfzMGleOqqJr3CzkuGBmC9yKCfRMBBCVECgfgkhFwVUVfad3w3NRABHbX70VN8s5L3bEYJPbHDEDFb7bKxIotcRDJ4MmapiCWeJQ+JSCjMZk2qrHtMuFgFt3dz1ThsdqLuOwIDAQAB\""
+                }
+            ]
+        },
+        {
+            "Name": "mail2._domainkey.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"dkim2.auinmeio.com.br\""
+                }
+            ]
+        },
+        {
+            "Name": "_e478b6732c2ac11ef43a110ab6a3b8ad.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7077e2320206f5e89b4ff533210b09c5.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e7c40f837f29b766d895190f8f98e123.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_fb91790a50dad25eab4d3088422d2f7d.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e8aa7c6d7400539174fa8a6e822de6ab.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a2f4657ad31030beb757d00458600f08.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_eb064ce573ab3556cf5fee524b589a5b.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_94ed472817e1e5159eb2824c18f443bc.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ebce1266e9e0d4a93d0ed360a64771a8.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9004a21658aa3aa7b412a089ab9973b5.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f12ca860143d0ab6c3e93b38fb6b5f7f.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2e197b229f3c40b26c3e1feacc40d339.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f2702fc249b65d6d9a4564eb685ab700.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_05ec5fea111be31ace77131ab0b1df00.gbycpywhzv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f3a78496e52dbed3c54a8726ed769266.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e88d518427d6d89eccb8c2e94fb3e96f.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f584bd58e4d427d593cd8dd2cae6e12f.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_fa4797074762076d4b77a5e9afffee77.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f9ca0e98e1298e7355df42db84bd3fca.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_bd0eacdd2b31c203957e70564f48fd4e.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_fbdb7f80f7b2e043a4b1b2b3bf696575.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_09b251e5af6c907ce976f2a8aa25cc8b.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_www.oboticario.com.co.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"www.oboticario.com.co.cdn.vtex.com\""
+                }
+            ]
+        },
+        {
+            "Name": "aihp7am7gbad.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "gv-sfnmsakplvzjxv.dv.googlehosted.com"
+                }
+            ]
+        },
+        {
+            "Name": "allin.oboticario.com.co.",
+            "Type": "NS",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "nsmaster.auinmeio.com.br"
+                },
+                {
+                    "Value": "nsmaster2.auinmeio.com.br"
+                },
+                {
+                    "Value": "ns3.auinmeio.com.br"
+                },
+                {
+                    "Value": "ns2.auinmeio.com.br"
+                }
+            ]
+        },
+        {
+            "Name": "www.consultor.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "emprendeoboticario.com.co."
+                }
+            ]
+        },
+        {
+            "Name": "ddemo-test-2.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d3ex07aihus46w.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "demo-test-2.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d5u1y9jyxg0p5.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "demprende-bo.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d351z5yyfef6rc.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.demprende.oboticario.com.co.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"f-2Fb2nLGoY0Z8OHq1eAUmY6hYtZZq35opo4RORZkZc\""
+                }
+            ]
+        },
+        {
+            "Name": "dfront-demo.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d3fglsnukkuaye.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "dpacco.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d3uzbgd9vow9s7.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "emailmarketing.oboticario.com.co.",
+            "Type": "NS",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "ns1.exacttarget.com"
+                },
+                {
+                    "Value": "ns2.exacttarget.com"
+                },
+                {
+                    "Value": "ns3.exacttarget.com"
+                },
+                {
+                    "Value": "ns4.exacttarget.com"
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.emprende.oboticario.com.co.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"2PlyADGbIWBwRH59CVsh13k7FT552TX9sSEC8wb3PyQ\""
+                }
+            ]
+        },
+        {
+            "Name": "front-demo.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d14x44co4e92z3.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "hdemo-test-2.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d27wtflw9w255p.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.hemprende.oboticario.com.co.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"tdbOm8OZFwYPDelNeSFw8dOFDhoQ257w9gGRc9wIOXk\""
+                }
+            ]
+        },
+        {
+            "Name": "hfront-demo.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d28ez367syj4u9.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "hpacco.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d2sys481kj6vgi.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "pacco.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d3dgny5uvahy6d.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "www.oboticario.com.co.",
+            "Type": "CNAME",
+            "TTL": 45,
+            "ResourceRecords": [
+                {
+                    "Value": "grupoboticario.com.br.edgesuite.net"
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.www.oboticario.com.co.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"pWZF8EX-nbFTiYIrzYkp-kELxP9JRZIAcFsqOWhrgtI\""
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets71": [
+        {
+            "Name": "projetooasisbrasil.com.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-550.awsdns-04.net."
+                },
+                {
+                    "Value": "ns-1693.awsdns-19.co.uk."
+                },
+                {
+                    "Value": "ns-263.awsdns-32.com."
+                },
+                {
+                    "Value": "ns-1435.awsdns-51.org."
+                }
+            ]
+        },
+        {
+            "Name": "projetooasisbrasil.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-550.awsdns-04.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets72": [
+        {
+            "Name": "quemdisseberenice.net.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-140.awsdns-17.com."
+                },
+                {
+                    "Value": "ns-1751.awsdns-26.co.uk."
+                },
+                {
+                    "Value": "ns-1460.awsdns-54.org."
+                },
+                {
+                    "Value": "ns-706.awsdns-24.net."
+                }
+            ]
+        },
+        {
+            "Name": "quemdisseberenice.net.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-140.awsdns-17.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets73": [
+        {
+            "Name": "e-eudora.com.br.",
+            "Type": "MX",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com"
+                }
+            ]
+        },
+        {
+            "Name": "e-eudora.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1684.awsdns-18.co.uk."
+                },
+                {
+                    "Value": "ns-1345.awsdns-40.org."
+                },
+                {
+                    "Value": "ns-53.awsdns-06.com."
+                },
+                {
+                    "Value": "ns-841.awsdns-41.net."
+                }
+            ]
+        },
+        {
+            "Name": "e-eudora.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1684.awsdns-18.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "e-eudora.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"MS=ms13982022\""
+                },
+                {
+                    "Value": "\"google-site-verification=FuzWOq4-ZNdl1jdODBXO98X_SRCPup7D_5jLbrJWH00\""
+                },
+                {
+                    "Value": "\"v=spf1 mx include:_spf.google.com -all\""
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets74": [
+        {
+            "Name": "convencaoboticario2020.com.br.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "54.90.179.77"
+                }
+            ]
+        },
+        {
+            "Name": "convencaoboticario2020.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1546.awsdns-01.co.uk."
+                },
+                {
+                    "Value": "ns-729.awsdns-27.net."
+                },
+                {
+                    "Value": "ns-216.awsdns-27.com."
+                },
+                {
+                    "Value": "ns-1156.awsdns-16.org."
+                }
+            ]
+        },
+        {
+            "Name": "convencaoboticario2020.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1546.awsdns-01.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_8ddfbf6928be9ec0cc1d24ed14c62c2b.convencaoboticario2020.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_e74fddd4b382f373d857906d86e72e25.jfrzftwwjs.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e66dbd7baf2791c194119877b41824f2.convencaoboticario2020.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_763934f3c8ab85c27b33ee98a9dbd3a5.zdxcnfdgtt.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "admin.convencaoboticario2020.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "avantgarde-alb-prd-1895857399.us-east-1.elb.amazonaws.com."
+                }
+            ]
+        },
+        {
+            "Name": "api.convencaoboticario2020.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "avantgarde-alb-prd-1895857399.us-east-1.elb.amazonaws.com."
+                }
+            ]
+        },
+        {
+            "Name": "player.convencaoboticario2020.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "webcast.integra.tv.br."
+                }
+            ]
+        },
+        {
+            "Name": "www.convencaoboticario2020.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "avantgarde-alb-prd-1895857399.us-east-1.elb.amazonaws.com."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets75": [
+        {
+            "Name": "revenda.oboticario.com.br.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "10 revenda-oboticario-com-br.mail.protection.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "revenda.oboticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-462.awsdns-57.com."
+                },
+                {
+                    "Value": "ns-1906.awsdns-46.co.uk."
+                },
+                {
+                    "Value": "ns-819.awsdns-38.net."
+                },
+                {
+                    "Value": "ns-1178.awsdns-19.org."
+                }
+            ]
+        },
+        {
+            "Name": "revenda.oboticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-462.awsdns-57.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "revenda.oboticario.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 include:amazonses.com ~all\""
+                },
+                {
+                    "Value": "\"google-site-verification=cpTzjTMiFTocCMTGtYyUsgzQEZLcX_kBcrcUoMUtNGc\""
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.revenda.oboticario.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"zis011e9q0vqqbiEU5NGkDd8XpBcgZ+pVN43jUm2Xhg=\""
+                }
+            ]
+        },
+        {
+            "Name": "2btonewicwttiiop2upckvvbruxewvxx._domainkey.revenda.oboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "2btonewicwttiiop2upckvvbruxewvxx.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "2xukazcagvcvppaqod5mt3ja3y2oq2l5._domainkey.revenda.oboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "2xukazcagvcvppaqod5mt3ja3y2oq2l5.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "twgiecmjz7u2q564htu4lxzuvuyrox2t._domainkey.revenda.oboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "twgiecmjz7u2q564htu4lxzuvuyrox2t.dkim.amazonses.com."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets76": [
+        {
+            "Name": "institutogrupoboticario.org.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1354.awsdns-41.org."
+                },
+                {
+                    "Value": "ns-442.awsdns-55.com."
+                },
+                {
+                    "Value": "ns-672.awsdns-20.net."
+                },
+                {
+                    "Value": "ns-1915.awsdns-47.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "institutogrupoboticario.org.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1354.awsdns-41.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets77": [
+        {
+            "Name": "beautyadvisor.oboticario.com.br.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "10 beautyadvisor-oboticario-com-br.mail.protection.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "beautyadvisor.oboticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1576.awsdns-05.co.uk."
+                },
+                {
+                    "Value": "ns-958.awsdns-55.net."
+                },
+                {
+                    "Value": "ns-21.awsdns-02.com."
+                },
+                {
+                    "Value": "ns-1152.awsdns-16.org."
+                }
+            ]
+        },
+        {
+            "Name": "beautyadvisor.oboticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1576.awsdns-05.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "beautyadvisor.oboticario.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 include:amazonses.com ~all\""
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.beautyadvisor.oboticario.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"Eep2CIioS3AhuxMziRKPxCDJDnXdECmLAAZk3W6Kkug=\""
+                }
+            ]
+        },
+        {
+            "Name": "avspaqceoksosr5gyybq62f6vzrccd6u._domainkey.beautyadvisor.oboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "avspaqceoksosr5gyybq62f6vzrccd6u.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "dwxnjj6t5ifxi64ixpa7m3osaurq45y6._domainkey.beautyadvisor.oboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "dwxnjj6t5ifxi64ixpa7m3osaurq45y6.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "orvnin5qkyd2y5hflreptle32pudvsn3._domainkey.beautyadvisor.oboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "orvnin5qkyd2y5hflreptle32pudvsn3.dkim.amazonses.com"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets78": [
+        {
+            "Name": "relatoriogrupoboticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1466.awsdns-55.org."
+                },
+                {
+                    "Value": "ns-775.awsdns-32.net."
+                },
+                {
+                    "Value": "ns-305.awsdns-38.com."
+                },
+                {
+                    "Value": "ns-1993.awsdns-57.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "relatoriogrupoboticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1466.awsdns-55.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets79": [
+        {
+            "Name": "teiadesolucoes.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-833.awsdns-40.net."
+                },
+                {
+                    "Value": "ns-1616.awsdns-10.co.uk."
+                },
+                {
+                    "Value": "ns-142.awsdns-17.com."
+                },
+                {
+                    "Value": "ns-1196.awsdns-21.org."
+                }
+            ]
+        },
+        {
+            "Name": "teiadesolucoes.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-833.awsdns-40.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_04c7d73515eb1e6f464488d5a2e45e30.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f8b907462d8135a98c0463b31f2fb6f6.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_0635751dd6dcbcfd04a68a2040c90df2.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_477e7a5c4e73eb286c8b28e407717023.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_09b2f2722df5cb1f9164a141022e5d61.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b3106ebec5a84110e23daafc2eaa6c22.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_0f60b453006608e2a4795647ca206eb3.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_90f17e1727dedbe0bc9e60516cd40feb.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_0fdd74480b0ac3804f5e20b6f56f7124.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d62d46bc0ad0ffda8f00167712784bbd.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_10c4576dc7bb9994127b4867bbe29879.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a6a34932d1c36b9d158c379aec46dd19.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1642c806719edbd84bce6462e768a165.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_099e20a680352b49e92e4ae80efbc487.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_17a676ba83fc2070f7f837ed84fd2a0a.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5fa42154d89963dbc9fc37535c8967bb.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_19d358eb42d545142571d937ee526138.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a37986e0576e5a7478d0227fd10517fc.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1a4f4c2bafc02111d149912007146e96.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2856c6db88216bb7fd3f03447abd17f9.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1cf40aa59f955dcdefbc97f3431d0fbb.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e451a6c101987db75553909ba202b489.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1d0ea89fc79e7889a8dd0fe4b021a4cf.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_282e4c126d4dfc41b9b68266bf423077.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1efdac706d0d768f6f1022a885887d66.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_8147defa6ba4898f995bd9098621dd97.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_293ccfcf9c93e641b9da3073bc5eb244.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_48b2f7ea7b3c57bd382b7c521585ac15.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_29f70e47f112c064dc16757c104f2ec7.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a546ec1493056300d179517190968d9e.cnsgthfrdk.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2af78846dac126833ad4c2874606063c.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ae93e812000ec62d61e2e17badf3e736.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2fe2d360261e81e426fdf7ff89765aee.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a7b256e7c0b455863d529d1ea992d660.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_308368b75738ad888a5339e58e142a84.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_803816abab307c186fbb4c937b4e4ee4.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_38c42d377fefaf82de5006cf0baa7a3a.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_8023859a17685d879131e6fc3bb65bac.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3bc053baa6534058ac97419a1c4fff5f.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_cf3031d649be84117a4a24b825b926da.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3d2d1222e42eff783ac83799c7a4ccf0.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2f5248f023de5560dbb3b86d34bcae0e.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3d91f967ed404482184ed1f22be5fdf5.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_fff1379ec423f53e82dac593c245be57.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3ede53a211b189a1686b99093f697bca.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_07e913cf4b8f7d00fdd4561601a355cc.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3f42f3f333461b6868527ce7cbe5fea7.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a6e74691501d7988098f2b11c734ca5b.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_46ae7d9479bfe80d1b7df4a2eebc935a.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2938df145d7272f5e7dfd623eab28b9e.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4af60530c1dec735150dc18811d8d534.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6d3f98561204c210b82707d0da2c603a.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4bda98d78226233767df6897296af81d.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e56395bfd2bfd59808adba080a76c480.ymrbdtpxcr.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4be92ef401839a7df1a4db0b20c1f874.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_78c0690adf615170a04e6935fea0e353.kzhndfqvzk.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4cff4bfa133c4385ab96e644af348e06.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c4377f5f710ec99c9f9c65951bd50b6d.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_53b4d34e0b9bc499c4b0bd8152866401.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5ce4da9fba06b9a77a65768e50f5c7b6.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_575f02da7d6102b87444904e760cba6f.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e81193b2648ba7f6b51859cb0e201c37.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_587d1ec3bd306e5611cdeb4bfe6a4dd0.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_79886c934fcc44dcabb702e64b6772ee.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5add41bf5b5df547562f9e31581d617f.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_05cb485f5ace1ca44ee2c30d55510703.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5fab4641ae62edb192ccab7675f52941.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f6f90bc01e428584b02568228e3beb64.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_628a7702d197054b72aa0eba809a41a1.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1b3817bef5b5e86ec38828cb01a8654a.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_64e46936aa1b797aafbe94c69936163b.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_43d447a8da1659f0a786ec6468eed692.gbycpywhzv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_668927097b7c1b990dd0e29fad8732eb.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5e544f6e10616a286c75351caba356b1.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_689f946cae6900363c8365fa7eb69fbf.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_dd8fbff20b944cae839f91202d7f67d4.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6ca3e3783efa7a2b3a099ef86beae685.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_49c9bc429394211b96db3c27f18f1cdf.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6dc685a19f0f22041ecf1548d7e4215a.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4898f44eb44d35416038536396b52988.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6f729e3da01a896608f211f3b3f310ec.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_66f70d9d479771b7783712b8bd3c83d9.bsgbmzkfwj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_73f0f63377221757aab063ddca36fa54.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9303fa7ff3bfafa853052abf88cef61b.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7f1182cddfe9ac4c98fad11edb6b8488.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7f46999c4171a1b27bec54bdb6fa3ea4.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7fc3505cbae3dfbc81a8d981e67c499c.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_99de363902d2f6bdc4ddc48e7c4c4539.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_80290a48504c218318be74ae4c777141.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c9948cf49b8e89e882f1e05b50bffd5a.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8ec291cab0cffd3e482cd5565199b340.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_cb6962cb629dcc2193f7436fe75c4f17.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9222b5d174af28f108f3deb89131d5cb.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e85967274bdb16a407ed68373a659ed8.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_96fcba86d7742e9b5656c93883991985.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b16bda334969d11f7b714f3c49467223.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_985ef1fd05cd35e26e2e0aca80812e40.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7dfa86b67f17c504933bcc66ce2b769e.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9b791da1c957afee4b7fecfd2a003e58.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0ce0935a12f3acad6b7f648b47d6919a.bwlshdtstt.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9d5d791357501e93de9657ee1c512939.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ba0b9d4e8f3b85321ce5f6dd9c2333ea.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9edcf29f53ae220796d29026fbcaed30.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_24af8c7ed6f456cf04f8727c7d3485b8.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a2948f79a826f0ceda9c4e5b37e2b126.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9956c15f4e5e5cee4be3b71a12303691.chvvfdvqrj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a2f2a51c071aebbcc15a6ce5086273fe.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3392ba98c7e98d259a41258587daf813.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a785c858adaba2c4abcb16395654c86c.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_36c14a684d741201bae6f58bc0c1f90a.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_af550c8408803999775178bad3ae6880.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_59a50c46e6b35e015f8461a6972db971.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b21c0a12526d48d07ddbf3920c07836a.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_fa3fd37229ca50a827b92750a0d0d5d4.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b4cd4a3c40b41e712e40b799c5a33206.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b443960253c287c2deeb77d6d3edd9eb.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b53a41fd7dc87f09be12ef79287f1659.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_855693e9bac2707e6a7fca7ea1c5de41.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b566bde462bb26315b4670700568b011.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_36ad33197580ddfca4f8c54dc5b5effb.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b9338435fc3dc0c9f6a216e10406c952.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_49bd0135ac5ea0a3b7430b731067322e.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_bdad51ec3176a316d232b243fd6f50ae.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_cdbfa0ad09e05707ab9b517df8c30938.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_be84fee444d0ae38175b73c015cf85e6.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b4e3bf921ae84d59ffe9b6e995a76f6b.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_bf49872089fe594885c99e050c3197c3.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c2f37f0dbb45ca9ce6d9c5157eb9c496.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c448a53340bcb6631e240dc400653985.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_fc5461042e6b411dc36d2d00b41e8a6f.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c4869e9e3362446cbae94bf6e3ed57db.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_41ac093f0bda613d3a05df4c2a52e5f5.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c65cb5cacb37f191096ceefac77a06bf.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a60b891c9adc481fd407dcd20f71bfff.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c7b8236b07bacc97384a086c56611f4b.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b00dbf2b256582b39ea6a48fd42167db.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_cd03a27ee9b2458fd1378d4f74dee9d5.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_629ea134dcf56bac899786e82fec4757.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_cea301b91fff418e0e66b0a2709f0c8f.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a3f44916c4462dff6bb8a5d7a990f665.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_cf5072befcaf69c96a16c2062a290612.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b1f5a349b6c44ec19ad242120242a77c.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d0ad42e2f7a55a70dd1a4c87f6c01ec6.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_de6f3121ad9caaf8cf3b35a96bc91c07.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d100f6b427e3eb45136d9fa6e997f08a.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_79a25300dfc3166c3bb8945eed28952d.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d1480df09891b80ab56a0332c227390c.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_90ee4fa802a07f296781ce7374ca12e7.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d9e9b9a610c10bd7d240583db882e2a9.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3a6a1067ad5212077ec3731b7ec087f2.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_de2016001be462ab2ce60ceb70ebe81b.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d002ae0f9c0cb093b2fb19ab211d3293.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e1fe1c204f7f46b1e891de55b228054c.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_29706af5d1c1df329fcb7402e3fbb29b.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e38cabd213268def2d7b39edfac5928d.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9f69ba300496da7ffc7853dfe1f17521.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e64be2a969c3b2255c703de4774adca5.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4a05f5ac8a28b5e6c1d1fb15bd43c3b4.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e878afc535db81d641c78fe30c4a6776.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_23d4e2484274b27db2e230e50e10ca23.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e9f9fff0b86aee7a5577a6e5cac473f8.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9085cac3c45fbe6cf37cc9b5ca0a322f.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ece3a376640d0023a8427f17ac241209.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_350a0b1bb8c39b299ff79abd6d948058.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ed15da4d9b962a2ec084749ba083406f.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_18880fdcdecebab5ec6dab8c963b30cf.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_efd9a96c81f9e4180251343ae7d09881.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2c525be05efe33871726198ae85770eb.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f134150a9bf67f75c82293541a751c63.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7264cee5106b999a12abbe38e63dfbc1.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f6fcd72bf0e687dfe74d0873af21be18.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_30c07dab91f605f50c31be30d7842eef.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f760331070bb3a5ad37c2803f5df1cdd.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4b1b1920b016c76eed217b6d63ecc4ad.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f8e9424f997bc81c065922aa9c9dae53.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_651e1991215087a7806db33dd71b6134.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f914ef730105da3a4ebf80e9086843f8.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5a3aa1a4589d9488a12c8c1573c691e0.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_fca3b85269275586d0d3668711e87716.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_471f0b9215f1a8eb4c4f7fe7f2748d78.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_fd3cb29132628b42fb025016b19d3ddc.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_515b197438eee4877bb4b35ce3ad621b.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ffde643da9b49b77c2cedc1c74995ebb.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_422b6449d00137da584126d78f6fb4b4.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "aprimora.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "grupoboticario.com.br.edgesuite.net"
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.aprimora.teiadesolucoes.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"7fJTE07QSn-N9WgCX2EviQZLPOuIzCd1J-ywmlg_eOs\""
+                }
+            ]
+        },
+        {
+            "Name": "www.aprimora.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "grupoboticario.com.br.edgesuite.net"
+                }
+            ]
+        },
+        {
+            "Name": "_acme-challenge.www.aprimora.teiadesolucoes.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"f4190HvyTS3AXQlF13g4Lf5CIFbFIIq3nCpNGm1u6W0\""
+                }
+            ]
+        },
+        {
+            "Name": "camp.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "dplnc6hxuojql.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "chamada.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d15w3gh4jjbbzh.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "conservathon.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "dmbvnxsxvvleg.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "conservathon2020.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d4o0qp4036mpa.cloudfront.net"
+                }
+            ]
+        },
+        {
+            "Name": "dtest-fortify-2.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "di7wuji0fmp5v.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "lab.teiadesolucoes.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d3ntazlqnsqd1k.cloudfront.net"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets80": [
+        {
+            "Name": "clubeessencia.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-670.awsdns-19.net."
+                },
+                {
+                    "Value": "ns-186.awsdns-23.com."
+                },
+                {
+                    "Value": "ns-1105.awsdns-10.org."
+                },
+                {
+                    "Value": "ns-1916.awsdns-47.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "clubeessencia.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-670.awsdns-19.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets81": [
+        {
+            "Name": "officiel.ouiparis.com.",
+            "Type": "MX",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com."
+                }
+            ]
+        },
+        {
+            "Name": "officiel.ouiparis.com.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-202.awsdns-25.com."
+                },
+                {
+                    "Value": "ns-966.awsdns-56.net."
+                },
+                {
+                    "Value": "ns-1767.awsdns-28.co.uk."
+                },
+                {
+                    "Value": "ns-1154.awsdns-16.org."
+                }
+            ]
+        },
+        {
+            "Name": "officiel.ouiparis.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-202.awsdns-25.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets82": [
+        {
+            "Name": "ouiparfums.com.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "54.94.181.121"
+                }
+            ]
+        },
+        {
+            "Name": "ouiparfums.com.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-626.awsdns-14.net."
+                },
+                {
+                    "Value": "ns-243.awsdns-30.com."
+                },
+                {
+                    "Value": "ns-1080.awsdns-07.org."
+                },
+                {
+                    "Value": "ns-1904.awsdns-46.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "ouiparfums.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-626.awsdns-14.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "ouiparfums.com.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"b95al0ahl6qg76f674f88s0mvu\""
+                },
+                {
+                    "Value": "\"pf13h6ah4kcifb9tveocbrha1l\""
+                }
+            ]
+        },
+        {
+            "Name": "_85022c5a23c31f0051f257aecebe54cf.ouiparfums.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3ea8b9139978471bb94918bade6426ce.qqqfmgwtgn.acm-validations.aws."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets83": [
+        {
+            "Name": "ouiofficiel.com.",
+            "Type": "A",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "54.94.181.121"
+                }
+            ]
+        },
+        {
+            "Name": "ouiofficiel.com.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-116.awsdns-14.com."
+                },
+                {
+                    "Value": "ns-857.awsdns-43.net."
+                },
+                {
+                    "Value": "ns-1407.awsdns-47.org."
+                },
+                {
+                    "Value": "ns-1827.awsdns-36.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "ouiofficiel.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-116.awsdns-14.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "ouiofficiel.com.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"b95al0ahl6qg76f674f88s0mvu\""
+                },
+                {
+                    "Value": "\"t37mh03b944a23a6l4l97na2ob\""
+                },
+                {
+                    "Value": "\"pf13h6ah4kcifb9tveocbrha1l\""
+                }
+            ]
+        },
+        {
+            "Name": "_f862b8e19ce3b94bf47e13faef9cebb3.ouiofficiel.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7a19727933b6a5f325ce5af7b58de002.qqqfmgwtgn.acm-validations.aws."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets84": [
+        {
+            "Name": "contato.fundacaogrupoboticario.org.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1837.awsdns-37.co.uk."
+                },
+                {
+                    "Value": "ns-420.awsdns-52.com."
+                },
+                {
+                    "Value": "ns-548.awsdns-04.net."
+                },
+                {
+                    "Value": "ns-1422.awsdns-49.org."
+                }
+            ]
+        },
+        {
+            "Name": "contato.fundacaogrupoboticario.org.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1837.awsdns-37.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets85": [
+        {
+            "Name": "beautyadvisor.quemdisseberenice.com.br.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "10 beautyadvisor-quemdisseberenice-com-br.mail.protection.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "beautyadvisor.quemdisseberenice.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1313.awsdns-36.org."
+                },
+                {
+                    "Value": "ns-1021.awsdns-63.net."
+                },
+                {
+                    "Value": "ns-353.awsdns-44.com."
+                },
+                {
+                    "Value": "ns-1624.awsdns-11.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "beautyadvisor.quemdisseberenice.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1313.awsdns-36.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "beautyadvisor.quemdisseberenice.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 include:amazonses.com -all\""
+                },
+                {
+                    "Value": "\"google-site-verification=wejUppKXjCVQIOUOya52tDLvrJXEWu3Txc-1M0vttxc\""
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.beautyadvisor.quemdisseberenice.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"vteyRmYOwcMjX77nluZC9BBzvf22m6IZaAEBv11djzc=\""
+                }
+            ]
+        },
+        {
+            "Name": "fnmzmjk7pufvalnvjcrmuum5sti43svc._domainkey.beautyadvisor.quemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "fnmzmjk7pufvalnvjcrmuum5sti43svc.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "m3e4v6zitnbiv5qupdnpl7juhve3garf._domainkey.beautyadvisor.quemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "m3e4v6zitnbiv5qupdnpl7juhve3garf.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "y6q5vpvkbasu4qap2wwozr5dddql2ztk._domainkey.beautyadvisor.quemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "y6q5vpvkbasu4qap2wwozr5dddql2ztk.dkim.amazonses.com."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets86": [
+        {
+            "Name": "comunica.quemdisseberenice.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "45.60.73.32"
+                }
+            ]
+        },
+        {
+            "Name": "comunica.quemdisseberenice.com.br.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "10 reply-mx.s6.exacttarget.com."
+                },
+                {
+                    "Value": "10 mx.email-messaging.com."
+                }
+            ]
+        },
+        {
+            "Name": "comunica.quemdisseberenice.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1686.awsdns-18.co.uk."
+                },
+                {
+                    "Value": "ns-1053.awsdns-03.org."
+                },
+                {
+                    "Value": "ns-842.awsdns-41.net."
+                },
+                {
+                    "Value": "ns-346.awsdns-43.com."
+                }
+            ]
+        },
+        {
+            "Name": "comunica.quemdisseberenice.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1686.awsdns-18.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "comunica.quemdisseberenice.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"spf2.0/pra include:cust-senderid.exacttarget.com -all\""
+                },
+                {
+                    "Value": "\"v=spf1 include:cust-spf.exacttarget.com include:email-messaging.com -all\""
+                },
+                {
+                    "Value": "\"5s2ThZa0OG3dGD3OR66s2AqrP97bNTmwSvdO6AjaW0M=\""
+                }
+            ]
+        },
+        {
+            "Name": "200608.comunica.quemdisseberenice.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDGoQCNwAQdJBy23MrShs1EuHqK/dtDC33QrTqgWd9CJmtM3CK2ZiTYugkhcxnkEtGbzg+IJqcDRNkZHyoRezTf6QbinBB2dbyANEuwKI5DVRBFowQOj9zvM3IvxAEboMlb0szUjAoML94HOkKuGuCkdZ1gbVEi3GcVwrIQphal1QIDAQAB\""
+                }
+            ]
+        },
+        {
+            "Name": "_domainkey.comunica.quemdisseberenice.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"o=~; r=postmaster@exacttarget.com\""
+                }
+            ]
+        },
+        {
+            "Name": "bounce.comunica.quemdisseberenice.com.br.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "10 bounce-mx.exacttarget.com."
+                }
+            ]
+        },
+        {
+            "Name": "bounce.comunica.quemdisseberenice.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 include:cust-spf.exacttarget.com -all\""
+                },
+                {
+                    "Value": "\"spf2.0/pra include:cust-senderid.exacttarget.com -all\""
+                }
+            ]
+        },
+        {
+            "Name": "click.comunica.quemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "click.virt.s6.exacttarget.com."
+                }
+            ]
+        },
+        {
+            "Name": "comunica.comunica.quemdisseberenice.com.br.",
+            "Type": "MX",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "10 mx.email-messaging.com."
+                }
+            ]
+        },
+        {
+            "Name": "daoqg333qrnods3ki62vhob5ftfplsmx.comunica.quemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "daoqg333qrnods3ki62vhob5ftfplsmx.dkim.email-messaging.com."
+                }
+            ]
+        },
+        {
+            "Name": "image.comunica.quemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "images.s6.exacttarget.com.edgesuite.net."
+                }
+            ]
+        },
+        {
+            "Name": "leave.comunica.quemdisseberenice.com.br.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "10 reply-mx.s6.exacttarget.com."
+                }
+            ]
+        },
+        {
+            "Name": "mta.comunica.quemdisseberenice.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "198.245.80.38"
+                }
+            ]
+        },
+        {
+            "Name": "pages.comunica.quemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "pages.virt.s6.exacttarget.com."
+                }
+            ]
+        },
+        {
+            "Name": "reply.comunica.quemdisseberenice.com.br.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "10 reply-mx.s6.exacttarget.com."
+                }
+            ]
+        },
+        {
+            "Name": "reply.comunica.quemdisseberenice.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 include:cust-spf.exacttarget.com -all\""
+                },
+                {
+                    "Value": "\"spf2.0/pra include:cust-senderid.exacttarget.com -all\""
+                }
+            ]
+        },
+        {
+            "Name": "smtp.comunica.quemdisseberenice.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC3l8n7MxgYOlh6/IyR0+C4+hTJa+3IucbApnQ9GH4JQec5WcXGfXHoSM+iq573gP5aJapLF3cNbRx/BZ/pUiUAXSZJcNQs9UdCrluE71mf9c8tHr7tlBmrNwPgKhiw4NrPhfQMy5BXKNEkX+bs9en3/HrW5Q0mlUQAy/DpZ9XekwIDAQAB\""
+                }
+            ]
+        },
+        {
+            "Name": "smtp1.comunica.quemdisseberenice.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDQAAGbGkVSqccTR4ZEttPYDyq3MyuprER3sPoTLjZUa37KPKmhHQZ4TWGHmy0hmUHLWrRKPcsa61IsJTjnELty+0Gq9ZPXTZW8wSFTyF/zcsycvvn3bPxSN4T8yANpLPOpCfP0yhsLbIsiK5rBhnnTBPlWXDGbFEeoOUWmcPdtTQIDAQAB\""
+                }
+            ]
+        },
+        {
+            "Name": "tracking.comunica.quemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "emailtracking.email-messaging.com."
+                }
+            ]
+        },
+        {
+            "Name": "view.comunica.quemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "view.virt.s6.exacttarget.com."
+                }
+            ]
+        },
+        {
+            "Name": "w74sucrlfsuah7zatwmzsnsblkgweicf.comunica.quemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "w74sucrlfsuah7zatwmzsnsblkgweicf.dkim.email-messaging.com."
+                }
+            ]
+        },
+        {
+            "Name": "x7jlllza2bkqij2bj556sxmdu6smsepp.comunica.quemdisseberenice.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "x7jlllza2bkqij2bj556sxmdu6smsepp.dkim.email-messaging.com."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets87": [
+        {
+            "Name": "intermail.boticario.com.br.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "10 intermail-boticario-com-br.mail.protection.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "intermail.boticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1785.awsdns-31.co.uk."
+                },
+                {
+                    "Value": "ns-1239.awsdns-26.org."
+                },
+                {
+                    "Value": "ns-399.awsdns-49.com."
+                },
+                {
+                    "Value": "ns-702.awsdns-23.net."
+                }
+            ]
+        },
+        {
+            "Name": "intermail.boticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1785.awsdns-31.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.intermail.boticario.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"uaIy0dNaucI4j6LCUbcqtcz8+dBuIc8HqqU1+0uqdy4=\""
+                }
+            ]
+        },
+        {
+            "Name": "6yetwolwpzrwo74luwa7dpd425zz2nx4._domainkey.intermail.boticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "6yetwolwpzrwo74luwa7dpd425zz2nx4.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "btj4jq3qaan3ildcp4z7nzbswywa4wid._domainkey.intermail.boticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "btj4jq3qaan3ildcp4z7nzbswywa4wid.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "ftpdll3p4s6e7xm5pmacl7vfzsubnpx4._domainkey.intermail.boticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "ftpdll3p4s6e7xm5pmacl7vfzsubnpx4.dkim.amazonses.com."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets88": [
+        {
+            "Name": "horus.grupoboticario.com.br.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "10 horus-grupoboticario-com-br.mail.protection.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "horus.grupoboticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-905.awsdns-49.net."
+                },
+                {
+                    "Value": "ns-379.awsdns-47.com."
+                },
+                {
+                    "Value": "ns-1191.awsdns-20.org."
+                },
+                {
+                    "Value": "ns-1922.awsdns-48.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "horus.grupoboticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-905.awsdns-49.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.horus.grupoboticario.com.br.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"wYG66PFlDKWtv5xQl4cJJBVwJvraSORTArcWiNsDzz8=\""
+                }
+            ]
+        },
+        {
+            "Name": "ho7vgvvrfoqzrjoyaxbiq3bfyeykpkbk._domainkey.horus.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "ho7vgvvrfoqzrjoyaxbiq3bfyeykpkbk.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "rkqqlrj656nkgcgrou5ivuxkxfl4qwr4._domainkey.horus.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "rkqqlrj656nkgcgrou5ivuxkxfl4qwr4.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "v3dhcv5fyz5dl4zfoyqkkih2p3v75r7r._domainkey.horus.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "v3dhcv5fyz5dl4zfoyqkkih2p3v75r7r.dkim.amazonses.com."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets89": [
+        {
+            "Name": "botiexpert.grupoboticario.com.br.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com."
+                },
+                {
+                    "Value": "10 botiexpert-grupoboticario-com-br.mail.protection.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "botiexpert.grupoboticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-644.awsdns-16.net."
+                },
+                {
+                    "Value": "ns-433.awsdns-54.com."
+                },
+                {
+                    "Value": "ns-1523.awsdns-62.org."
+                },
+                {
+                    "Value": "ns-1537.awsdns-00.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "botiexpert.grupoboticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-644.awsdns-16.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "botiexpert.grupoboticario.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=spf1 include:sendgrid.net -all\""
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.botiexpert.grupoboticario.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"GheYYol7uTrum0R51WXWrBACpQGCJh6JD9bIb9SUnWU=\""
+                },
+                {
+                    "Value": "\"/p+AA6PofocB4D+Y63yrIYtPqJgnUu8HLkez2ZKAnYM=\""
+                }
+            ]
+        },
+        {
+            "Name": "2z67byvck5puslf3ww4pb2xr65fjbpqe._domainkey.botiexpert.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "2z67byvck5puslf3ww4pb2xr65fjbpqe.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "5dkeqwsd5j7mhwv2vze5f2cqicdtqzx5._domainkey.botiexpert.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "5dkeqwsd5j7mhwv2vze5f2cqicdtqzx5.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "6uwep7bawlieuerfaxrlnzdijiarmeap._domainkey.botiexpert.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "6uwep7bawlieuerfaxrlnzdijiarmeap.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "adj4bewbdhje6slkf52zzpdf7lpez3mv._domainkey.botiexpert.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "adj4bewbdhje6slkf52zzpdf7lpez3mv.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "dwjlsvuc455vclbxdj33cm7wcpde3ien._domainkey.botiexpert.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "dwjlsvuc455vclbxdj33cm7wcpde3ien.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "gb73ybzsuodxfmu54ytm5kipbgujugxm._domainkey.botiexpert.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "gb73ybzsuodxfmu54ytm5kipbgujugxm.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "em8653.botiexpert.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "u8186263.wl014.sendgrid.net."
+                }
+            ]
+        },
+        {
+            "Name": "s1.botiexpert.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "s1.domainkey.u8186263.wl014.sendgrid.net."
+                }
+            ]
+        },
+        {
+            "Name": "s2.botiexpert.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "s2.domainkey.u8186263.wl014.sendgrid.net."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets90": [
+        {
+            "Name": "internacional.grupoboticario.com.br.",
+            "Type": "MX",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "10 internacional-grupoboticario-com-br.mail.protection.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "internacional.grupoboticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1350.awsdns-40.org."
+                },
+                {
+                    "Value": "ns-388.awsdns-48.com."
+                },
+                {
+                    "Value": "ns-701.awsdns-23.net."
+                },
+                {
+                    "Value": "ns-1886.awsdns-43.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "internacional.grupoboticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1350.awsdns-40.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.internacional.grupoboticario.com.br.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"BV5mttzK1V2Ov0t4uW1nwcevyWXII0iq0aLcDZTfa1M=\""
+                }
+            ]
+        },
+        {
+            "Name": "3qhisywlfp7j6lauhjg3exkmwxrmtx4d._domainkey.internacional.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "3qhisywlfp7j6lauhjg3exkmwxrmtx4d.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "7wduqei4ljzgef3zqqwruv3umeiw6rti._domainkey.internacional.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "7wduqei4ljzgef3zqqwruv3umeiw6rti.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "a3z2cj7st7k42uj4harnow5zkqtaun3c._domainkey.internacional.grupoboticario.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "a3z2cj7st7k42uj4harnow5zkqtaun3c.dkim.amazonses.com"
+                }
+            ]
+        }
+    ]
+}

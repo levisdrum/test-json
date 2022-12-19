@@ -1,0 +1,3647 @@
+{
+    "ResourceRecordSets121": [
+        {
+            "Name": "omundodosperfumes.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1553.awsdns-02.co.uk."
+                },
+                {
+                    "Value": "ns-1496.awsdns-59.org."
+                },
+                {
+                    "Value": "ns-1009.awsdns-62.net."
+                },
+                {
+                    "Value": "ns-111.awsdns-13.com."
+                }
+            ]
+        },
+        {
+            "Name": "omundodosperfumes.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1553.awsdns-02.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "h.omundodosperfumes.com.br.",
+            "Type": "NS",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "ns1.boticario.com.br."
+                },
+                {
+                    "Value": "ns2.boticario.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "www.omundodosperfumes.com.br.",
+            "Type": "NS",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "ns1.boticario.com.br."
+                },
+                {
+                    "Value": "ns2.boticario.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets122": [
+        {
+            "Name": "projetooasisbrasil.org.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1389.awsdns-45.org."
+                },
+                {
+                    "Value": "ns-618.awsdns-13.net."
+                },
+                {
+                    "Value": "ns-1674.awsdns-17.co.uk."
+                },
+                {
+                    "Value": "ns-222.awsdns-27.com."
+                }
+            ]
+        },
+        {
+            "Name": "projetooasisbrasil.org.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1389.awsdns-45.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets123": [
+        {
+            "Name": "promocuidesebem.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "186.233.201.46"
+                }
+            ]
+        },
+        {
+            "Name": "promocuidesebem.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1355.awsdns-41.org."
+                },
+                {
+                    "Value": "ns-872.awsdns-45.net."
+                },
+                {
+                    "Value": "ns-1978.awsdns-55.co.uk."
+                },
+                {
+                    "Value": "ns-304.awsdns-38.com."
+                }
+            ]
+        },
+        {
+            "Name": "promocuidesebem.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1355.awsdns-41.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.promocuidesebem.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "40243n.ha.azioncdn.net."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets124": [
+        {
+            "Name": "revistaessenciaonline.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "187.45.189.34"
+                }
+            ]
+        },
+        {
+            "Name": "revistaessenciaonline.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-810.awsdns-37.net."
+                },
+                {
+                    "Value": "ns-1548.awsdns-01.co.uk."
+                },
+                {
+                    "Value": "ns-139.awsdns-17.com."
+                },
+                {
+                    "Value": "ns-1154.awsdns-16.org."
+                }
+            ]
+        },
+        {
+            "Name": "revistaessenciaonline.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-810.awsdns-37.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.revistaessenciaonline.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "187.45.189.34"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets125": [
+        {
+            "Name": "solucoesmooz.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1903.awsdns-45.co.uk."
+                },
+                {
+                    "Value": "ns-1455.awsdns-53.org."
+                },
+                {
+                    "Value": "ns-391.awsdns-48.com."
+                },
+                {
+                    "Value": "ns-610.awsdns-12.net."
+                }
+            ]
+        },
+        {
+            "Name": "solucoesmooz.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1903.awsdns-45.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.solucoesmooz.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "179.124.46.50"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets126": [
+        {
+            "Name": "somosmooz.com.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "141.193.213.20"
+                },
+                {
+                    "Value": "141.193.213.21"
+                }
+            ]
+        },
+        {
+            "Name": "somosmooz.com.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-880.awsdns-46.net."
+                },
+                {
+                    "Value": "ns-1309.awsdns-35.org."
+                },
+                {
+                    "Value": "ns-337.awsdns-42.com."
+                },
+                {
+                    "Value": "ns-1973.awsdns-54.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "somosmooz.com.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-880.awsdns-46.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.somosmooz.com.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "29t4ntpdbspb.wpeproxy.com"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets127": [
+        {
+            "Name": "teatrodebonecosdrbotica.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-971.awsdns-57.net."
+                },
+                {
+                    "Value": "ns-1850.awsdns-39.co.uk."
+                },
+                {
+                    "Value": "ns-476.awsdns-59.com."
+                },
+                {
+                    "Value": "ns-1464.awsdns-55.org."
+                }
+            ]
+        },
+        {
+            "Name": "teatrodebonecosdrbotica.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-971.awsdns-57.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.teatrodebonecosdrbotica.com.br.",
+            "Type": "NS",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "ns1.boticario.com.br."
+                },
+                {
+                    "Value": "ns2.boticario.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets128": [
+        {
+            "Name": "boticario.pt.",
+            "Type": "A",
+            "AliasTarget": {
+                "HostedZoneId": "Z2FDTNDATAQYW2",
+                "DNSName": "d3mc0f1gldif8l.cloudfront.net.",
+                "EvaluateTargetHealth": false
+            }
+        },
+        {
+            "Name": "boticario.pt.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-513.awsdns-00.net."
+                },
+                {
+                    "Value": "ns-1901.awsdns-45.co.uk."
+                },
+                {
+                    "Value": "ns-91.awsdns-11.com."
+                },
+                {
+                    "Value": "ns-1342.awsdns-39.org."
+                }
+            ]
+        },
+        {
+            "Name": "boticario.pt.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-513.awsdns-00.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_8a167b2fb9b51d41525a4350fad46cd6.boticario.pt.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_be979cc26a75a78f357f8acd2f630250.lwzrbtbdjq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "www.boticario.pt.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d3mc0f1gldif8l.cloudfront.net"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets129": [
+        {
+            "Name": "moozantecipa.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1919.awsdns-47.co.uk."
+                },
+                {
+                    "Value": "ns-1491.awsdns-58.org."
+                },
+                {
+                    "Value": "ns-51.awsdns-06.com."
+                },
+                {
+                    "Value": "ns-930.awsdns-52.net."
+                }
+            ]
+        },
+        {
+            "Name": "moozantecipa.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1919.awsdns-47.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.moozantecipa.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "179.124.46.55"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets130": [
+        {
+            "Name": "teatrodrbotica.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-205.awsdns-25.com."
+                },
+                {
+                    "Value": "ns-839.awsdns-40.net."
+                },
+                {
+                    "Value": "ns-1437.awsdns-51.org."
+                },
+                {
+                    "Value": "ns-1928.awsdns-49.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "teatrodrbotica.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-205.awsdns-25.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_0340e6f4508bba319ad0c350b7991f42.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6b8ae9bb9e73d1f3f1f9d45f92a12439.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_06850b2d96df9cbf02c38d5ca90a4473.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a727ec0d03a117ae0d2105ff95531ef1.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_0d1fbc7aa91b8bac04dec1a70c2ce055.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6a410ca811c67987c2a880b4f44d98ef.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_10fc9e651a30276cb3756fc569f2b64a.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5e5abe4074f4c9254a0892e79f8baaef.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1400408ee38c15cafbc8b2d63bf49020.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_38d5b3c2751637aba031dabd5df0cd60.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_15fd4f08c8dfbc9daba590943709044a.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_338f780cf2d74a28c73c02f41fcd0d39.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_188f20cf49318b23090d0826ce796e1c.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_37bc6e290af88b4bfe57262ce8447367.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_198b31bcf18b84884ebf1106710a6320.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0dda551d45b590469da260955bf9ec42.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1a43ca81df81df8d068404e3afbe92f7.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_67899dc393ed459235bff3f58e260e54.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1e1926623ecb5b3638578ffcf0aa3cd1.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_954e9a6649b64703ce811d8d85c18ea9.gbycpywhzv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1f140bde7cb9fb6c7946bdcb6c3f97d0.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ec016a84860ef8d799618c7267e4fc20.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_204fb79a56e92e6fadc9816216be4b37.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_269bad2d8f78efdecccfbe430eb4cd42.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_20eeda471ed73a7a4a97ad2854ed5c0b.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_81cdb711369ef491228fdcd796225d2e.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_21dabfa8ea23d6601b99f0c0920220b9.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7b2c005cf575202916795fd831810b41.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_23676c478ee8ed0be562a288ac404fb8.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_01edce85b776cd31e3d024f970c09944.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2438ec3cf7560150172ee1a5b839834e.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3a9b3608b44bf3f8c8cb6b9a70172210.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_245468f51baec3e97d026199d50b1987.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ea5d60322ea1a26660c0077cb7095fce.chvvfdvqrj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2bbb50295094d620b51b0736f4c2cc15.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_24761ffed8979530f90b9139604006de.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2d80e747ddb7b940d9d9fe217ad559fd.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c91cafe409c67f164e5bd985e52b2d12.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2fc91dc42be2732fc0cb078f1624ac9a.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_251464ef15f5a8793181755d2b366c9e.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_31a9134c3283ff233abd86c786e8eaf4.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1620581e6766ee2e431bcbd53d9dccd0.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_335112f5e90563513299475de5c1dd4f.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6f378388cc22a90af0240f2db7e72fa2.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_37fbc3d40b20654c8070079dc7219cdc.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_37f4f4207129ff90e4eea11390d8bd52.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_399d1030fe5233f782aba4fceae54736.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4c69578e528b1a3d58f97a68cd0b4a77.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_39ae1e27029cfb84d3a4827457d6fc1a.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_84baff0aad0efdc70ed5abe34f37724f.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3a919c69a44e51fb84c70290b689aea7.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_efe5d19dc1b0d661c561815e9d4c38dc.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3c4d5bee6c7ad44d0baadbea3493babd.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_fb6ecb1fdb4208e2b32879ae4770bef9.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3e73d1c66ee5879dd927a56d879a2b87.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_98bffe5b9c7f6091036082111916caa0.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3ed52e40cb7540306cf2b3134506a418.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9ce7d14b893fb16e0c906e89b65d3c1b.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3f268f542b0f2c895061b15ba8bcd347.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_aa65192aec4ab85770a525f885e4a742.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_44c35ca170264c915f9844da6d3b0966.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b179b3b484e761f59b43fc4d6f230955.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_45624ac786f161767d4b4f206b851bf2.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1cf1ea626161245b1502719d8dbbd2f8.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_467fd8cf217963d221e23730eb339114.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d945a3a80554fbf13f45d49a96622c91.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4c946d8f2ccc41b2af835ba52dce4cc8.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a4178e4dc89fbaaa6af01d7e055646c7.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_545aaa8d8fe75c0bb060cfd63742d328.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a3f29de88df275e14c203acf8da30cfa.kzhndfqvzk.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_57c29f4b8fe001628ff0d25756a89f04.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_04cc0aaeef68bf34e2cc66c22c6e0a00.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5a9c803d39c58c992156aeefad13abe7.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6e9c9fa56108ba4efb372899d1cf6cec.bwlshdtstt.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5e719b07d2175d70fc80b96de7929b24.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_54d7500f04305ca0d2880630921a891b.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_60884a4fa888521c40470d42c642f6f5.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5c67824956da7c52445f725ed7bc78f2.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_60fce4166d1f1989ee1d4b060a72e622.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f82ffa3e7d1ad30518ddb7dbe502b927.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_646a03ab306b7ac25e551367347767be.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c4b392f018143eeb19a3cb1fb360231c.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6a2ce71a654b91fbe901b6e59dd7bafc.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_376706d914bf6b4abed24dfc393785e5.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6acd2d155d554106d51cc5e9f73f3413.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_dc85c9f7672052e40dc61fed0c84f1e2.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6dfce4a0c5e95128499ccd5ba7bc5873.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b9ce9ef9f47d26aeba239fecebb77f57.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6f05cde84922b76dbe79146f49807c9d.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e05907f75ca75c0bfa51f20000edf44f.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_70d025569cda915c6c8ce226c035f31b.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_273eb5d11987b184616431da67504b09.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7107ce5a663b6a39567ca61452adb97a.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d57fbe7bb6ce6dc47b1bcaf30ee5699c.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_734216b08ebd635f840cde73c36f690a.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5344a61ae324e2df4110c4c8e883d7cb.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_756602986a60ab38587aa521a5515041.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3651f66392603de665ff1a92357a61e9.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_76c6cc3c198b14a9283c48dd1bdfdff5.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_98c823630def1ddf55d1b3dd7e9fd3cd.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_77bdb2e069dbb145f4ed6501be7aff9e.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ffed74f9465774c0406b74b07d93eda7.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7d40b016edea3a116eda178a78596a27.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_f8fb55ef1b2c960f6897a90e35ab5253.gwpjclltnz.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7dc8b0fb33403e75c736ec2f5831cdef.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d5174268788c122df4bcfca5061518ec.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7f65b9b601ad666896470e4d807b6464.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_71d5225efcfc301e958a2f80a684f817.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8196cc79dbf83622af664b63701c60d2.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1df022a32792ab2ea7c8e670f3db33a3.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8446821f99b868c033aabdf5953dd73b.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f09e5bf68acfd4630f18d086d1eade1e.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8fd976bed30545851978d5dc4892691c.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d93ed6f1f092a9197f6c66de189053c5.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_90566f230a328b097bbd75311e94aef4.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f7c3a8d1aaf7117cf7bdc33110e95cf9.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9094ecf6fa5fe6dc15d8eb64c65e46cc.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_426f816b680d640ef87c9b6b39af9b42.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9167910f3a9131ba83796a5e55e79643.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7afc072014ebc39fd3c924383ad22361.ymrbdtpxcr.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_9db9ea1b21cdfd05b3c6687d9b8dac47.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_683db3188d56f8f931cf70e9c3b12307.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a200d603614fc6ea463caceb9e00adbc.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e8e74ab36bfeae936511c44f825e983b.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a2b6d547aa5a496eb0a6eaa9608d1f46.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0a217f6cb927c350bffa0660025985b7.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a2fa671edbd8d548ffb63e8ca7b09d04.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f162638b899457c71412842f3558d564.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a7fc30947be15b75e5baacf77801ff7f.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_227424e3cca442a2208ca0d930631e39.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_aa4d68213774d86391b56c8514fd99a0.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b6272413efcc13361047cf8122fefd38.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_aa6256e42b0e2274a1154b10a26c3746.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7b1293d34f489ef19de840360ad92c21.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ac18034c3ad8f95a5349a351711430bb.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_97baea4669c871074f023e3859f8385f.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ae740afb8040eb6d48cfcfc7c71db834.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_dafe1b99a3ed6bf5e7d6915f01c2c238.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_af068a6bdfc3da0010d114197831b6e9.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4a3ab3820a4200509102d072fc1d1885.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b47c28e5823ed807a20e9c16c8883c89.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_694953cf5c1082adaf7e3381cb6ae11e.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b4c3957190c5a8973ab285bea8506ab0.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_25724d14c3e400aad27e04ed8c54175c.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b6245e262d357e23743743e34bf12269.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_322ec8787ab502beb48d2eaf346a552e.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_bb1d43a2628c2cb78931c60aa64d6d5c.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b6ec5ec24a498e8a90c3dd648e70ff35.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c396a2d5fc34b1d3654319f451dfbfb5.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4354dfb0f42a3f571cd13a823b230e23.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c93c35eb35d98c44c1d39241807df31a.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ac102ecc3a999d6f9024f9b312879b2b.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c9f17201189e67ee335fed011b0993e0.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_da6388b27b56078efcdf828f65344e41.gwpjclltnz.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d256ba583272267e12eb893d7296c3a5.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b88d3ba902e5f3b1ca2d814314ec2202.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_db17ff0f6cea98debde9ffef37254d62.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_6093c8b0f31b88a13497cb4b75412692.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_dff88297bfa422d9438201ae54edab6e.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c4e6d0183703088edfbb71ae60989044.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e26e1cdce3cdc4b081bf4221ef7fa7ba.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c20b86277f645023e82774d96c9b4c0e.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e5c2fe61bb9aa4c643fbcf08e38da106.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_8a6f539b73731f88605a0c8a47ec7a79.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e802dfe5ad14a87c578b55ade767877a.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7a972f04fb08d785d19c7448f8345130.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ed55dce7907c1c60a78d7d090680fb13.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_dd3a917c9018f321876d10a10ce663f3.cnsgthfrdk.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ef8d71c69b4212817c35127b0a8a07d3.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_cea2f9ea2105c9ede1a24016798b0a39.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_effde61454cc16d9a0ab641070766563.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_754befa64644ff6693d9514e558c95a9.jddtvkljgg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f195fa896d4bd10a40e4dc038abccb9a.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b14919c767890a813337c2f9023082aa.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f4a4a1e069b6ef450eb56992bc315163.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9797304b1789635d1a5566792ded2f00.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f5d2b6a7965c971ad8a28b9054e690f7.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f4d9255e431340bc2f13b9e4e581db7e.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f7c6746fa22058901a195bd4ff38f8fa.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_fe6c14850dd6b462f3a2c1fb9688a28d.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f7e92c6d2bb3f9785dfcb96186780217.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_eb029edd6aad551398d72612cfbea138.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f8d31cc8519f75fe068af09dd2862602.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1d7099baf683ecc606686c5cd5c09bd2.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_fc5315b137a8a488f143609ca4868c7f.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ed0189525617501fa2f73bed9cfc7299.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_fec89047df7fdd651a5e8c435d0c82a2.teatrodrbotica.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_236e17600e55b40396ce5df8953ee4c2.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets131": [
+        {
+            "Name": "universidadeeudora.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "52.1.106.141"
+                }
+            ]
+        },
+        {
+            "Name": "universidadeeudora.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1313.awsdns-36.org."
+                },
+                {
+                    "Value": "ns-1642.awsdns-13.co.uk."
+                },
+                {
+                    "Value": "ns-233.awsdns-29.com."
+                },
+                {
+                    "Value": "ns-651.awsdns-17.net."
+                }
+            ]
+        },
+        {
+            "Name": "universidadeeudora.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1313.awsdns-36.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.universidadeeudora.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "eudora.konviva.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets132": [
+        {
+            "Name": "australiangoldbrasil.com.br.",
+            "Type": "MX",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com"
+                }
+            ]
+        },
+        {
+            "Name": "australiangoldbrasil.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-500.awsdns-62.com."
+                },
+                {
+                    "Value": "ns-1938.awsdns-50.co.uk."
+                },
+                {
+                    "Value": "ns-569.awsdns-07.net."
+                },
+                {
+                    "Value": "ns-1422.awsdns-49.org."
+                }
+            ]
+        },
+        {
+            "Name": "australiangoldbrasil.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-500.awsdns-62.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "australiangoldbrasil.com.br.",
+            "Type": "TXT",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "\"tmes=e70682f5cddc72dfc0db71f71e39e276\""
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets133": [
+        {
+            "Name": "blackweek.com.br.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "10 br111.dialhost.com.br."
+                },
+                {
+                    "Value": "10 br112.dialhost.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "blackweek.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-884.awsdns-46.net."
+                },
+                {
+                    "Value": "ns-102.awsdns-12.com."
+                },
+                {
+                    "Value": "ns-1078.awsdns-06.org."
+                },
+                {
+                    "Value": "ns-2019.awsdns-60.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "blackweek.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-884.awsdns-46.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "imap.blackweek.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "imap104.dialhost.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "newsletter.blackweek.com.br.",
+            "Type": "NS",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "ns1.responsys.net."
+                },
+                {
+                    "Value": "ns2.responsys.net."
+                }
+            ]
+        },
+        {
+            "Name": "ns1.blackweek.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "200.186.3.98"
+                }
+            ]
+        },
+        {
+            "Name": "ns2.blackweek.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "189.86.220.98"
+                }
+            ]
+        },
+        {
+            "Name": "pop.blackweek.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "pop104.dialhost.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "smtp.blackweek.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "smtp104.dialhost.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets134": [
+        {
+            "Name": "agendamentobeautybox.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "23.23.133.245"
+                }
+            ]
+        },
+        {
+            "Name": "agendamentobeautybox.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1870.awsdns-41.co.uk."
+                },
+                {
+                    "Value": "ns-689.awsdns-22.net."
+                },
+                {
+                    "Value": "ns-1459.awsdns-54.org."
+                },
+                {
+                    "Value": "ns-275.awsdns-34.com."
+                }
+            ]
+        },
+        {
+            "Name": "agendamentobeautybox.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1870.awsdns-41.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_a73463771863c69024f0deceb779393d.agendamentobeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_013b216f2d67b0548539cb8a46c19964.chvvfdvqrj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.agendamentobeautybox.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"2uR6W+Q8oF3uWNiM9bLdhm5f+Lq+bTF7DP0PjPzHHic=\""
+                }
+            ]
+        },
+        {
+            "Name": "cnf2gudcptgcw6peapldluuknby7tzyd._domainkey.agendamentobeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "cnf2gudcptgcw6peapldluuknby7tzyd.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "ged255ip4gpm7ng6a3vrrsvmdtntvdl2._domainkey.agendamentobeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "ged255ip4gpm7ng6a3vrrsvmdtntvdl2.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "jvbkuvvmfphciyjdgxz6sutk7zsxcrgp._domainkey.agendamentobeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "jvbkuvvmfphciyjdgxz6sutk7zsxcrgp.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "api.agendamentobeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "agendamentobeautybox.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "www.agendamentobeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "agendamentobeautybox.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets135": [
+        {
+            "Name": "agendamentothebeautybox.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "23.23.133.245"
+                }
+            ]
+        },
+        {
+            "Name": "agendamentothebeautybox.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1445.awsdns-52.org."
+                },
+                {
+                    "Value": "ns-546.awsdns-04.net."
+                },
+                {
+                    "Value": "ns-473.awsdns-59.com."
+                },
+                {
+                    "Value": "ns-1911.awsdns-46.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "agendamentothebeautybox.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1445.awsdns-52.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_20841d7bf452d5760df696f75f6168a9.agendamentothebeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_29a3f7e9b0519225813af1137b3adf35.czrmfnbpdk.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.agendamentothebeautybox.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"2uR6W+Q8oF3uWNiM9bLdhm5f+Lq+bTF7DP0PjPzHHic=\""
+                }
+            ]
+        },
+        {
+            "Name": "cnf2gudcptgcw6peapldluuknby7tzyd._domainkey.agendamentothebeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "cnf2gudcptgcw6peapldluuknby7tzyd.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "ged255ip4gpm7ng6a3vrrsvmdtntvdl2._domainkey.agendamentothebeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "ged255ip4gpm7ng6a3vrrsvmdtntvdl2.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "jvbkuvvmfphciyjdgxz6sutk7zsxcrgp._domainkey.agendamentothebeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "jvbkuvvmfphciyjdgxz6sutk7zsxcrgp.dkim.amazonses.com."
+                }
+            ]
+        },
+        {
+            "Name": "api.agendamentothebeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "agendamentothebeautybox.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "ns1.agendamentothebeautybox.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "200.186.3.98"
+                }
+            ]
+        },
+        {
+            "Name": "ns2.agendamentothebeautybox.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "189.86.220.98"
+                }
+            ]
+        },
+        {
+            "Name": "www.agendamentothebeautybox.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "agendamentothebeautybox.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets136": [
+        {
+            "Name": "belezaeoqueagentefaz.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "187.45.189.34"
+                }
+            ]
+        },
+        {
+            "Name": "belezaeoqueagentefaz.com.br.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com."
+                }
+            ]
+        },
+        {
+            "Name": "belezaeoqueagentefaz.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1296.awsdns-34.org."
+                },
+                {
+                    "Value": "ns-148.awsdns-18.com."
+                },
+                {
+                    "Value": "ns-610.awsdns-12.net."
+                },
+                {
+                    "Value": "ns-2009.awsdns-59.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "belezaeoqueagentefaz.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1296.awsdns-34.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "belezaeoqueagentefaz.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"MS=ms22274491\""
+                },
+                {
+                    "Value": "\"OkZl95Bl0VxXdj393jA5jzzICxa6f/VszP18j8k39SURS054dxpL7xDBgn5N7fNOc9JGZwMbHlJmgRLcT1vc1g==\""
+                },
+                {
+                    "Value": "\"tmes=04ec96c19edc2b9fb8029a52594e8eb8\""
+                },
+                {
+                    "Value": "\"v=spf1 mx ip4:200.186.3.245 ip4:200.186.3.252 ip4:189.86.220.28 ip4:189.86.220.29 include:15357.meuspf.com include:sharepointonline.com -all\""
+                },
+                {
+                    "Value": "\"google-site-verification=TSSqwzpZvdSy8puGlga1OWwW5qNOMwipGGxyIOQQri0\""
+                }
+            ]
+        },
+        {
+            "Name": "d-app.belezaeoqueagentefaz.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "d-app.mail2easy.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "d-click.belezaeoqueagentefaz.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "d-click.mail2easy.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "d-image.belezaeoqueagentefaz.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "d-image.mail2easy.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "d-view.belezaeoqueagentefaz.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "d-view.mail2easy.com.br."
+                }
+            ]
+        },
+        {
+            "Name": "www.belezaeoqueagentefaz.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "belezaeoqueagentefaz.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets137": [
+        {
+            "Name": "boticario.com.sa.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1883.awsdns-43.co.uk."
+                },
+                {
+                    "Value": "ns-113.awsdns-14.com."
+                },
+                {
+                    "Value": "ns-1218.awsdns-24.org."
+                },
+                {
+                    "Value": "ns-597.awsdns-10.net."
+                }
+            ]
+        },
+        {
+            "Name": "boticario.com.sa.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1883.awsdns-43.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.boticario.com.sa.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "200.186.3.210"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets138": [
+        {
+            "Name": "botirecicla.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "200.175.203.35"
+                }
+            ]
+        },
+        {
+            "Name": "botirecicla.com.br.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "6 ms64871891.msv1.invalid."
+                }
+            ]
+        },
+        {
+            "Name": "botirecicla.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1619.awsdns-10.co.uk."
+                },
+                {
+                    "Value": "ns-418.awsdns-52.com."
+                },
+                {
+                    "Value": "ns-800.awsdns-36.net."
+                },
+                {
+                    "Value": "ns-1464.awsdns-55.org."
+                }
+            ]
+        },
+        {
+            "Name": "botirecicla.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1619.awsdns-10.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "botirecicla.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"MS=ms64871891\""
+                },
+                {
+                    "Value": "\"google-site-verification=P6CdwZS4OxBTbNCl1F-MW_vPh7Ka_LQgiVrem1OBbbM\""
+                },
+                {
+                    "Value": "\"v=spf1 include:_spf.google.com ~all\""
+                }
+            ]
+        },
+        {
+            "Name": "www.botirecicla.com.br.",
+            "Type": "CNAME",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "60535r.ha.azioncdn.net."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets139": [
+        {
+            "Name": "fundacaooboticario.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1714.awsdns-22.co.uk."
+                },
+                {
+                    "Value": "ns-231.awsdns-28.com."
+                },
+                {
+                    "Value": "ns-1122.awsdns-12.org."
+                },
+                {
+                    "Value": "ns-916.awsdns-50.net."
+                }
+            ]
+        },
+        {
+            "Name": "fundacaooboticario.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1714.awsdns-22.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets140": [
+        {
+            "Name": "projetooasisbrasil.org.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1684.awsdns-18.co.uk."
+                },
+                {
+                    "Value": "ns-132.awsdns-16.com."
+                },
+                {
+                    "Value": "ns-1120.awsdns-12.org."
+                },
+                {
+                    "Value": "ns-987.awsdns-59.net."
+                }
+            ]
+        },
+        {
+            "Name": "projetooasisbrasil.org.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1684.awsdns-18.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_027b22e4776c48a6c25481f74f6a4919.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_962d9aa8143b4c17a7315a9efd79d88a.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_09c0d0566597c937d691664a2fa7e9a3.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4f97137f80197de5814aa28514fa6cc2.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_10e42da00523ab2d0fd9e03b97dd18d5.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f5556cd1b46f37b9fdbc34b124923b58.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1502c3076ab95d759ceae871d0cb097b.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0bed55d2b07f21cae29a4499d44a8a31.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_16f352c2802b69bcf065be31f52dbd31.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a5c87e484f01f07bb20b440897318b4b.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1bd4ea6f181d2d26a08c4c8a211c174e.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3018ec806c190500464beb208d6a13b6.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_1ef8087c111670ff3afa761a0bb8897e.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3a3f65316cc8a3fc9eea2715a8e00004.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_20ac4d62c1f0746935ffba5a1975fda8.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b24e13311bccd7fc7b5435db4867779f.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2252439f4123172f71700c8e856b2988.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7ca625bf9d4486ce066bd4543ce0c181.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_23c4860495af3a643555b3eefbff8efa.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c08895aaeb51dad43924c3fd04c4dea4.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_2404ab27ae43d8f2ba41b2cabce28f6b.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c20e72be118590c85c12835f6074b000.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_243a074f3dd19ee765ef5a4afd18f354.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5b97b5b284879aab9d71bc1c3fa2297d.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_288ae46581f04e5006c0a5e68b6dd0f4.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_735f2807567defcbaa60eb6fe36f30a9.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_28cbe31e9f6537b8d6e2252359c93f4b.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_da46d299d521214515512acb6e6f9477.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3317f68945408d5b23f0fbee414dbe60.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_fde4147a327772d073ac6c91856388b0.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_35062588543cf01aa63352b886f51447.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a18f19670e758dc32069d170b1576c6b.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3618853eb704255e6df3226d41a222ae.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "_1b08e35163189a81c524f3a4694b7a51.gwpjclltnz.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_36d2353b3b64ab1957b8a30c8e5e3dac.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9be68e036434b08bdf89e7a9a23f7331.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3880c9f85ea0d8ab15c439d21d3bd8ce.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_532299e81c5d59936bc87d25e0a635c6.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3926b8b8d37b1a2e1329f6693ff3f40f.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3beb2e65fde80e99db6fd90026def78d.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3baea49bec8f6c761a72c2122e73750e.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ac896da0def36a5b0ce068e8403243f9.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_3e1c729ef3252c846d4233f463528867.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_16e8e45837954f03aff13681220d24a0.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_406968f4de41a469074ce696b720e383.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9f9f32221cedc37f28c88b5aed1d07d0.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4088f48702ec319050b7fecf0b7fb6f2.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_82be6ef3c3654ae7bfef2bd5b2d6c1ce.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_44b8b403cfb0e3860c45cc6fc8298a8c.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c5bf01b9e63dbe77b580122991e7d224.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_451f01eebea74ea0139e96e273340d39.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0245210328f7dbdc67900437ef349f30.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_457942be9181289494c21e664bfee8b1.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c47b9678684848c6bc9f86068281e071.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4a7d19906eb3a5d6b3da8bf066713c3b.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2a180dd603b35cfc37bbe743e3ddd8c5.kzhndfqvzk.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4b42c3354f26922e91ccad3fa14f2d27.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3dda4c8be80b17cdf2021e6826f17239.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4ca275d11fb01bd76bff0baba442a8da.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d262f1fa97217ce5bacea86162ba37f8.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4dc8236140a056010d4da71784e6692f.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b496a249c07b27b4d5732953636a8397.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_4e3999fbbd915c5b0d380699daf9b8df.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_685c6b1ef7250a3d3d4f76d7a36e8c0b.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5490cf8e9abfe96196c4d0ee0ad24f9b.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_c0bd998b997b0a25c4cdb024ee697f4c.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_561a00260c4bb4544bf0f58d38743e1f.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f508eb02f0b36909c66eaa3e70e1e087.ymrbdtpxcr.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5f08703e440a6c6c050f1984159f29c9.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_dc2e9ace66d0edbab4859b5de672e8ff.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_5f0d7d1af2501f01866b884bd50b0971.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d8376cac6e8e99d1abee1b0cb58f2fd1.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6482a78ee0666ce0d8af3af22d13dcda.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_92b22db345edaf7bc889a7b8d01a74d7.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_65a185571178d414699557f9cf5cde1f.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e8c0f3843f928aae8bfa9e4516f5bbbd.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_65fb33e8d0eca3f2dc5da7b0239919bc.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_f20456103e43fae57fe99ae112e75e5f.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6b3b6ae29a4b1f022647d0e6f1af4388.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_9bb15b5f79ac6daef557e71780157201.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_6ccc7a2822224fe3f75c67a822f569d3.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_30aecffab8da705180f926859ba76705.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_71da93164c26eba91e9eff8815099527.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e094c9dd9bfdb3191cf6e01aebc1807b.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_732c4b11d5dd534760a4e766e0c06271.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3dc65c8813dcd94401822271e2bb48aa.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7478588ddd6d4c8dc2da1eff7f18c807.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_d01ae62371d999af78edd1ba243653c8.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_74ee57a15e9a380b15f65e56352b3f11.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_58d7c2aff5fffab16e177070a9ea6a09.bwlshdtstt.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_78b09d8d76336067678f5ebce65554f5.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_17990e03cf7d97bc8f2798c8c023ef7b.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7d6644ee081cd41db9fe993f824e0822.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_976cc3462903fb62df981e98af4f3fd3.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_7da4aefc40a4ad1a52f02fc80a619cbd.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0f87bf489b994f0f52a21e08285383fc.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_806baa8f97b6d2731bdef0430dd2d3a0.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ac3d7884b52f00f01ef58b9ba863fdd8.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8261c7cb56cadb6b5a41393908d6434e.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3719ea3e2bbcaec5341c068c8b789fd6.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_82cd5ea0ed3d6420143171a582744010.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_5a5f1e8c18bb264abcea59d82da4f9ba.chvvfdvqrj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_89420bcccfb33eb6d50e4b0a35b162d6.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_99490ac67b24cf6658050f25fc9c2e9d.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_89d2b3d4e924c81d4e8ba16d036bca62.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0165477bbf122ffb64f2f470e155cd48.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_89e45bd43eb28133cecbc5fe3cfda1bf.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_287647cd83d457e44d6a1818094f6f93.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8b7c50378e7558ee8771b23333fe6474.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4892b26c08270dc5044f66d93c6f0f86.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_8bdfd06cde6319fc0e3dad7b9e7d62eb.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1cff64e695d054dd3194482f8ce0664d.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_92aa68448d24581b7b76f177a03ddad3.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_69b1b6a601ec31254c27667c1a8012b4.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_956be0bcc058d9e0fa3245d529c3a489.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_cd6b13f51cee217580edabecf0f06392.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_957c7ec63eff9f38dadb60ea102f362e.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_8aee451df67156def9809ae15f599ba2.mqzgcdqkwq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_968e379e8a2bf270cd0aca84bf618543.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1cb42408b049b3d62140b8095cda447e.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_99a2fbb375b5ccac88779d4f4ab42465.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e1633bd2e78939438bca946053b13232.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a1537f0960ed6164d654aa020463d967.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_31a03529733f0088110e975bcced62dd.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a445c3d2fd58c6c1552f516493da9325.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1d4e3803ba2c3c27e8c401e792e2140b.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a51484feaab381315356ba707c1331c9.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_e19e231ed57304adac503a8081ae4c85.cnsgthfrdk.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_a9d77a1b94397cf4d9b00941eb2b0108.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_27a97b2423f9fc34bdcc9001a972a1c8.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_afffe2c2ce5750f86d136d91d2486af9.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_0f652ed528012e73fb2543cae9f24bcf.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b41680f3a3be8360a00c2ba49469ffd8.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_85f03e817cc6711363baa2adede990e5.wrncprvrjv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b487d80f6fe849b1fed56f7c1f1b844f.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_fc333987e5f1e223173fb05b384acf47.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b5070de0063641a7385b2015479274b8.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_1f91d20f91d3c2455504a8b84161e318.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_b6417618980ca4f2f8977fa32447160d.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_122a16db2882fbb753687ff7283e2172.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_babefd1dfdaa6da677704bcdcca306d0.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_8878b973f0ac71712479525de90268e9.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_c35b0956ecbaa4612089f9dc037468d1.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_b3c4a6781375317fd5af282470967aad.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_cb12e67a634fd43c67140744d1fa5bd7.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_723d0849ae86246b1ac1225838186777.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d27f5b907f1e3abcd093fe52c2233969.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3ff2da72f60a6c738d570b5711d90fff.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d8fe957535397a9cde9e7e16a1282dfc.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_49cfc23dcea2ed0f7ab2f8708284a9b1.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d90f3b3faca8a18d8137b759f2d89c70.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_995bb3dc42450ce8edbc489780e581e9.gxwgcdsjsl.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_d93066dc14e33b038a26993d54050bf4.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3610f2a0edcbeee380fea1cf1d4e7d9a.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_dbceff3feb4d0208a1f4b22390c095bd.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4e4a3043cc40263f17bae0c280293291.lggsghvbmf.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_dd4dd1856108c610c6ffed43c2dbaae8.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a65adeba107a487511a77c1c7395ecfb.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e1101e5e029561b884b5b2886f0ea5a1.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_48de1d16260a6ceb711abf01cdd79625.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e19977c702e84633cdd971004170215f.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_bce0d25b3a2bf81586bdb2035b4353dc.ylqxxscwpq.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e41d4425f395fa8106cf2692273328c4.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_36f6aa3163e96f8ece2eaf69f6b24a5e.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e4a8bb23e9754eb1d13581c6bb831c40.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_cecff01ec5de1440cf2b6ed79e424b76.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e6b6e18fcf21f8559a580963750102ee.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_7c1b95188a6bbed7559ca7089365326d.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e750103be39132bacb5ded2bb1d59be1.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_2bc7bbc148c2afa5b6fd784c521cf30c.ffbjkxtvyn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_e92b4adcdd7f979fbc525f388b542a1d.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_ddb0f7257533edaf085eeeae77e609fa.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ed7a147053e1b135d226c06f11845baa.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_4f60155ee8d5195c2646446304936e5c.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ee2e68a17b1470aefea2ecc59f96f0cb.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_941bc856469de5b82336f83510349877.lkwmzfhcjn.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ef65ef0914d2cd7567fcfa0df4b3286a.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_bb05f19dfdfff8f87a597a166fa97c92.bdvkfdzfbg.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f549c2e60aa70870c26b0c22331bc265.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_462e1c2f7ffead7cc798ebb9e8212a86.gbycpywhzv.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_f84c37fbea6ece9ac750514d3708492f.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_a5931f060b05e1f8783e6ec8c9a6d1d2.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "_ff17ac0b2e5312d72761101a30034931.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "_3864e8e794ded70b530f0ddc561462e1.tjxrvlrcqj.acm-validations.aws."
+                }
+            ]
+        },
+        {
+            "Name": "dreact-flora.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "d2h8h1tovo5jow.cloudfront.net."
+                }
+            ]
+        },
+        {
+            "Name": "www.projetooasisbrasil.org.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "d2wjo57vo02euw.cloudfront.net"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets141": [
+        {
+            "Name": "riobelezaqueinspira.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "177.70.120.58"
+                }
+            ]
+        },
+        {
+            "Name": "riobelezaqueinspira.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1570.awsdns-04.co.uk."
+                },
+                {
+                    "Value": "ns-172.awsdns-21.com."
+                },
+                {
+                    "Value": "ns-871.awsdns-44.net."
+                },
+                {
+                    "Value": "ns-1082.awsdns-07.org."
+                }
+            ]
+        },
+        {
+            "Name": "riobelezaqueinspira.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1570.awsdns-04.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.riobelezaqueinspira.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "177.70.120.58"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets142": [
+        {
+            "Name": "torcidalinda.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1432.awsdns-51.org."
+                },
+                {
+                    "Value": "ns-432.awsdns-54.com."
+                },
+                {
+                    "Value": "ns-1764.awsdns-28.co.uk."
+                },
+                {
+                    "Value": "ns-963.awsdns-56.net."
+                }
+            ]
+        },
+        {
+            "Name": "torcidalinda.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1432.awsdns-51.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.torcidalinda.com.br.",
+            "Type": "NS",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "ns1.boticario.com.br."
+                },
+                {
+                    "Value": "ns2.boticario.com.br."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets143": [
+        {
+            "Name": "oboticario.es.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "94.23.75.91"
+                }
+            ]
+        },
+        {
+            "Name": "oboticario.es.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1206.awsdns-22.org."
+                },
+                {
+                    "Value": "ns-833.awsdns-40.net."
+                },
+                {
+                    "Value": "ns-366.awsdns-45.com."
+                },
+                {
+                    "Value": "ns-1852.awsdns-39.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "oboticario.es.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1206.awsdns-22.org. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.oboticario.es.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "94.23.75.91"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets144": [
+        {
+            "Name": "oboticariomaisvendadireta.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-269.awsdns-33.com."
+                },
+                {
+                    "Value": "ns-1546.awsdns-01.co.uk."
+                },
+                {
+                    "Value": "ns-1166.awsdns-17.org."
+                },
+                {
+                    "Value": "ns-666.awsdns-19.net."
+                }
+            ]
+        },
+        {
+            "Name": "oboticariomaisvendadireta.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-269.awsdns-33.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "h.oboticariomaisvendadireta.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "hmlvarejovd.grupoboticario.net.br."
+                }
+            ]
+        },
+        {
+            "Name": "2fjcj9n678bfc6d6cnxv0rsbp4p2d437.h.oboticariomaisvendadireta.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "dcv.digicert.com."
+                }
+            ]
+        },
+        {
+            "Name": "www.oboticariomaisvendadireta.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "prdvarejovd.grupoboticario.net.br."
+                }
+            ]
+        },
+        {
+            "Name": "ccd8xjggd49q6f4gk0nrw22vfzscprmt.www.oboticariomaisvendadireta.com.br.",
+            "Type": "CNAME",
+            "TTL": 300,
+            "ResourceRecords": [
+                {
+                    "Value": "dcv.digicert.com."
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets145": [
+        {
+            "Name": "quasarnaopare.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "186.233.201.35"
+                }
+            ]
+        },
+        {
+            "Name": "quasarnaopare.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-335.awsdns-41.com."
+                },
+                {
+                    "Value": "ns-1465.awsdns-55.org."
+                },
+                {
+                    "Value": "ns-1689.awsdns-19.co.uk."
+                },
+                {
+                    "Value": "ns-952.awsdns-55.net."
+                }
+            ]
+        },
+        {
+            "Name": "quasarnaopare.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-335.awsdns-41.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets146": [
+        {
+            "Name": "retornabere.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "189.86.221.36"
+                }
+            ]
+        },
+        {
+            "Name": "retornabere.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-581.awsdns-08.net."
+                },
+                {
+                    "Value": "ns-1214.awsdns-23.org."
+                },
+                {
+                    "Value": "ns-1815.awsdns-34.co.uk."
+                },
+                {
+                    "Value": "ns-65.awsdns-08.com."
+                }
+            ]
+        },
+        {
+            "Name": "retornabere.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-581.awsdns-08.net. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.retornabere.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "189.86.221.36"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets147": [
+        {
+            "Name": "portalvendafacil.com.br.",
+            "Type": "MX",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com."
+                }
+            ]
+        },
+        {
+            "Name": "portalvendafacil.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1755.awsdns-27.co.uk."
+                },
+                {
+                    "Value": "ns-1327.awsdns-37.org."
+                },
+                {
+                    "Value": "ns-741.awsdns-28.net."
+                },
+                {
+                    "Value": "ns-242.awsdns-30.com."
+                }
+            ]
+        },
+        {
+            "Name": "portalvendafacil.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1755.awsdns-27.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "portalvendafacil.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"MS=ms75312873\""
+                },
+                {
+                    "Value": "\"v=spf1 a mx include:porlink.portalvendafacil.com.br include:spf.protection.outlook.com include:_spf.google.com -all\""
+                },
+                {
+                    "Value": "\"EPg96paNP6c4jqFCxJ+oOHrrH/8+QHvzLWysGqZppIqWHOh0d7mWGAlVt+FjcYCn2znjGB/L0EQQBWXhL5Jacw==\""
+                },
+                {
+                    "Value": "\"tmes=9df3e4ffcf093df8cbc93c42b68b6790\""
+                },
+                {
+                    "Value": "\"google-site-verification=_msaurGS1L0oXUBC6pkC-nOul0HGidfO6_H6cyetQ6s\""
+                },
+                {
+                    "Value": "\"google-site-verification=6YhRQXM2eMu6bNCMAhN2e6xgwPT72OhxTgJkjS8Gatw\""
+                }
+            ]
+        },
+        {
+            "Name": "1444766565._domainkey.portalvendafacil.com.br.",
+            "Type": "TXT",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "\"v=DKIM1;p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDEOi/6bARAA28U7+hP6ktHikZma9+ZCHoqpPuOkAerWqqNVeywzaNvM0SK1cFCnYQGdEYzcKrgkjZBVXsQASHXJ9MXSPdGf+MDKSQFfJ5Dmn5uEsSGoIn9hDSMhv/egMJ1+mHFemnstn3yuSLMdjTFEWO4Bj0bCiooiUYNoaLCeQIDAQAB\""
+                }
+            ]
+        },
+        {
+            "Name": "porlink.portalvendafacil.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "portalvendafacil.com.br.dnzdns.com."
+                }
+            ]
+        },
+        {
+            "Name": "www.portalvendafacil.com.br.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "177.126.189.65"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets148": [
+        {
+            "Name": "reservasaltomorato.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-2007.awsdns-58.co.uk."
+                },
+                {
+                    "Value": "ns-855.awsdns-42.net."
+                },
+                {
+                    "Value": "ns-1331.awsdns-38.org."
+                },
+                {
+                    "Value": "ns-374.awsdns-46.com."
+                }
+            ]
+        },
+        {
+            "Name": "reservasaltomorato.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-2007.awsdns-58.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.reservasaltomorato.com.br.",
+            "Type": "A",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "200.186.3.47"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets149": [
+        {
+            "Name": "saltomorato.org.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-81.awsdns-10.com."
+                },
+                {
+                    "Value": "ns-1100.awsdns-09.org."
+                },
+                {
+                    "Value": "ns-528.awsdns-02.net."
+                },
+                {
+                    "Value": "ns-1662.awsdns-15.co.uk."
+                }
+            ]
+        },
+        {
+            "Name": "saltomorato.org.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-81.awsdns-10.com. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "www.saltomorato.org.br.",
+            "Type": "A",
+            "TTL": 3600,
+            "ResourceRecords": [
+                {
+                    "Value": "200.186.3.47"
+                }
+            ]
+        }
+    ],
+    "ResourceRecordSets150": [
+        {
+            "Name": "doismaiscapital.com.br.",
+            "Type": "MX",
+            "TTL": 30,
+            "ResourceRecords": [
+                {
+                    "Value": "10 grupoboticario.in.tmes.trendmicro.com."
+                }
+            ]
+        },
+        {
+            "Name": "doismaiscapital.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1714.awsdns-22.co.uk."
+                },
+                {
+                    "Value": "ns-1053.awsdns-03.org."
+                },
+                {
+                    "Value": "ns-603.awsdns-11.net."
+                },
+                {
+                    "Value": "ns-105.awsdns-13.com."
+                }
+            ]
+        },
+        {
+            "Name": "doismaiscapital.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1714.awsdns-22.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "doismaiscapital.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"MS=ms36174605\""
+                },
+                {
+                    "Value": "\"IjVFBL/5KXu5ov1Jb/iBVP9HKb3cB9PSyf0/22g88lewA3vxRSkj7oJ0Puc5Is57+CnkBQRBlUOqluZkrirnJw==\""
+                },
+                {
+                    "Value": "\"tmes=0b691dae51d2fe6558ef3be8305b2996\""
+                },
+                {
+                    "Value": "\"v=spf1 mx ip4:200.186.3.245 ip4:200.186.3.252 ip4:189.86.220.28 ip4:189.86.220.29 include:sharepointonline.com -all\""
+                },
+                {
+                    "Value": "\"google-site-verification=KzAVppNvNCuHoH8J5zS-Yr1IQ-H1t4-dHOEEM4VRAdU\""
+                }
+            ]
+        }
+    ]
+}

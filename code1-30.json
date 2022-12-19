@@ -67264,5 +67264,86 @@
                 }
             ]
         }
+    ],
+    "ResourceRecordSets30": [
+        {
+            "Name": "login.eudora.com.br.",
+            "Type": "MX",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "10 login-eudora-com-br.mail.protection.outlook.com."
+                }
+            ]
+        },
+        {
+            "Name": "login.eudora.com.br.",
+            "Type": "NS",
+            "TTL": 172800,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1958.awsdns-52.co.uk."
+                },
+                {
+                    "Value": "ns-584.awsdns-09.net."
+                },
+                {
+                    "Value": "ns-121.awsdns-15.com."
+                },
+                {
+                    "Value": "ns-1298.awsdns-34.org."
+                }
+            ]
+        },
+        {
+            "Name": "login.eudora.com.br.",
+            "Type": "SOA",
+            "TTL": 900,
+            "ResourceRecords": [
+                {
+                    "Value": "ns-1958.awsdns-52.co.uk. awsdns-hostmaster.amazon.com. 1 7200 900 1209600 86400"
+                }
+            ]
+        },
+        {
+            "Name": "_amazonses.login.eudora.com.br.",
+            "Type": "TXT",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "\"/OuQFmM+fu9Q1yBOrmOLuMnPndBTldVYICX5zp66SE0=\""
+                }
+            ]
+        },
+        {
+            "Name": "cwppshepijmivw4csisxmv67m24sxfm5._domainkey.login.eudora.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "cwppshepijmivw4csisxmv67m24sxfm5.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "keiw6jed2xvo5ht7qkjo76bfv52yhc6i._domainkey.login.eudora.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "keiw6jed2xvo5ht7qkjo76bfv52yhc6i.dkim.amazonses.com"
+                }
+            ]
+        },
+        {
+            "Name": "l6iwpqgz22gop3uadenzptes4yffhryh._domainkey.login.eudora.com.br.",
+            "Type": "CNAME",
+            "TTL": 60,
+            "ResourceRecords": [
+                {
+                    "Value": "l6iwpqgz22gop3uadenzptes4yffhryh.dkim.amazonses.com"
+                }
+            ]
+        }
     ]
 }
