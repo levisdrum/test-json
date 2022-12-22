@@ -29,9 +29,9 @@
             })
         })
 
-        arr.push(arr1, arr2)
+        console.log(arr = [ arr1, arr2 ])
 
-        var data = "text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(arr));
+        var data = "text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(arr1, arr2));
 
         var a = document.createElement('a');
         a.href = 'data:' + data;
