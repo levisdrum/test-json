@@ -1,0 +1,439 @@
+[
+    [
+      {
+        "Name": "_f30b58747ca8104f2c5a6087a843ccce.www.account.beautybox.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_a89bad6629bc6646308ad07580438155.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "_f5d3807ab0d06f33ea10771aabf301c2.www.backoffice.beautybox.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_045d4b7bdf34312740b6d70800785214.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "_15c362329d4f0654f80d3fc5338dba1a.www.checkout-store.beautybox.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_dadf5d1c341ca4447cf45265413831eb.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "_5753344eed22a9d5485855ca6b2094e2.www.beautybox.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_55adf1b96dabc54b553a33f07885090c.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "_1f4c9c71758157926a97180e73ce2cca.www.account.belezanaweb.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_d73cfebe4f4e05ce5db1f1a0c642903d.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "_8da8c66346d2fa7a815ed684bdd12bc1.www.backoffice.belezanaweb.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_d80ba9cf413dc741dfde50ad57c00260.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "_d8beac7c13ae500814f0dd89b25c728b.www.checkout-store.belezanaweb.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_5ab080edb3753d6e3b0afba13ea0d1f2.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "_99aa499d2472fcda8fd9f50b31bf633d.www.belezanaweb.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_1a5c1eeb9233379b22239c069d783494.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "_b6f63336b61b16105ecc225390d1bbbb.www.account.belezanawebpro.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_9f2c76d0c7db12985cbca29b9358796c.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "_5e41fa967681a4fc889ecf4df55084c2.www.backoffice.belezanawebpro.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_10b3f3f00b7dfb09e6b3bc0d12814e74.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "_dd3f73856b519d8194d7fbda426e678d.www.checkout-store.belezanawebpro.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_d03b343938dcc55868e6cf6d75b425c2.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "_a00825a39e96a5902528cfc50c58816e.www.belezanawebpro.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_af0f994b01c348950f3c73756f7b6d5b.lblqlwmygg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "www.drjones.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "drjones.blzlocal.com.br"
+          }
+        ]
+      },
+      {
+        "Name": "www.blzlocal.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "lb-wordpress-qa-107842441.us-west-2.elb.amazonaws.com"
+          }
+        ]
+      },
+      {
+        "Name": "www.blzcdn.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "lb.belezanaweb.prod.belezanaweb.digital"
+          }
+        ]
+      },
+      {
+        "Name": "_86fced268f7bb2aa3a6649fe4852cd09.www.meurastre.io.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_0b8c1bfe08ed6c11087b2b995bc8223e.vtqfhvjlcp.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "www.narscosmetics.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "lb.narscosmetics.prod.belezanaweb.digital"
+          }
+        ]
+      },
+      {
+        "Name": "www.neeche.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "lb.neeche.prod.blzlocal.com.br"
+          }
+        ]
+      },
+      {
+        "Name": "www.belezanaweb.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "lb.belezanaweb.prod.belezanaweb.digital"
+          }
+        ]
+      },
+      {
+        "Name": "www.vultatbeleza.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "vult.multi-store.blzlocal.com.br"
+          }
+        ]
+      },
+      {
+        "Name": "_e0c6121aba60779579c46e18e50b561a.www.imediataexpress.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "_3d6bae5f503689c7846ad43bdd1aab0c.bsgbmzkfwj.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "www.beautyboxatbeleza.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "beautybox.multi-store.blzlocal.com.br"
+          }
+        ]
+      },
+      {
+        "Name": "www.quemdissebereniceatbeleza.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "quemdisseberenice.multi-store.blzlocal.com.br"
+          }
+        ]
+      },
+      {
+        "Name": "www.beautybox.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "lb.beautybox.prod.belezanaweb.digital"
+          }
+        ]
+      },
+      {
+        "Name": "_c014b0799382055549fb90b0086af128.www.beautybox.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "_ed0e5a820583814557787d897ca844b4.yyqgzzsvtj.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "www.thebeautybox.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "alb.beautybox.prod.blzlocal.com.br"
+          }
+        ]
+      },
+      {
+        "Name": "www.minhalojaboticario.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "lb.minhalojaboti.prod.blzlocal.com.br"
+          }
+        ]
+      },
+      {
+        "Name": "www.vult.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "lb.vult.prod.belezanaweb.digital"
+          }
+        ]
+      },
+      {
+        "Name": "www.belezanawebpro.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "lb.belezanawebpro.prod.belezanaweb.digital"
+          }
+        ]
+      },
+      {
+        "Name": "_7af698a9dd550b42bab95ddd6816ff4a.www.belezanawebpro.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "_dd989cc0e11117faf977bc61e82b09d0.jddtvkljgg.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "www.shopkorres.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "lb.shopkorres.prod.belezanaweb.digital"
+          }
+        ]
+      },
+      {
+        "Name": "www.belezaexperience.com.br.",
+        "Type": "CNAME",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "belezaexperience.com.br"
+          }
+        ]
+      },
+      {
+        "Name": "_551ac40fbd51320c25bcd71a7a6cbe55.www.belezaexperience.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "_fd96ea76bc463d1b19d3b93fe65086af.tjxrvlrcqj.acm-validations.aws."
+          }
+        ]
+      },
+      {
+        "Name": "www.quemdisseberenice.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "wllo4gx.x.incapdns.net."
+          }
+        ]
+      },
+      {
+        "Name": "www.minhalojaeudora.com.br.",
+        "Type": "CNAME",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "lb.minhalojaeudora.prod.blzlocal.com.br"
+          }
+        ]
+      }
+    ],
+    [
+      {
+        "Name": "www.lauramercier.blzlocal.com.br.",
+        "Type": "A",
+        "AliasTarget": {
+          "HostedZoneId": "Z2P70J7HTTTPLU",
+          "DNSName": "eks-3-azsfro-default-laura-b1a4-1366486358.sa-east-1.elb.amazonaws.com.",
+          "EvaluateTargetHealth": true
+        }
+      },
+      {
+        "Name": "www.shiseido.blzlocal.com.br.",
+        "Type": "A",
+        "AliasTarget": {
+          "HostedZoneId": "Z2P70J7HTTTPLU",
+          "DNSName": "eks-3-azsfro-default-shise-37f9-802559857.sa-east-1.elb.amazonaws.com.",
+          "EvaluateTargetHealth": true
+        }
+      },
+      {
+        "Name": "www.belezanaweb.com.",
+        "Type": "A",
+        "TTL": 300,
+        "ResourceRecords": [
+          {
+            "Value": "54.94.181.121"
+          }
+        ]
+      },
+      {
+        "Name": "www.meurastre.io.",
+        "Type": "A",
+        "AliasTarget": {
+          "HostedZoneId": "Z2P70J7HTTTPLU",
+          "DNSName": "eks-3-azsfro-default-belez-8f85-13065830.sa-east-1.elb.amazonaws.com.",
+          "EvaluateTargetHealth": true
+        }
+      },
+      {
+        "Name": "www.imediataexpress.com.br.",
+        "Type": "A",
+        "AliasTarget": {
+          "HostedZoneId": "Z2P70J7HTTTPLU",
+          "DNSName": "ee1141b0-default-publicsit-5cef-877060786.sa-east-1.elb.amazonaws.com.",
+          "EvaluateTargetHealth": true
+        }
+      },
+      {
+        "Name": "origin-www.thebeautybox.com.br.",
+        "Type": "A",
+        "TTL": 60,
+        "ResourceRecords": [
+          {
+            "Value": "200.186.3.181"
+          }
+        ]
+      },
+      {
+        "Name": "www.boticarioatbeleza.com.br.",
+        "Type": "A",
+        "AliasTarget": {
+          "HostedZoneId": "Z2P70J7HTTTPLU",
+          "DNSName": "dualstack.907f0e64-default-boticario-06f1-51424144.sa-east-1.elb.amazonaws.com.",
+          "EvaluateTargetHealth": false
+        }
+      },
+      {
+        "Name": "www.gbentrega.com.br.",
+        "Type": "A",
+        "AliasTarget": {
+          "HostedZoneId": "Z2P70J7HTTTPLU",
+          "DNSName": "ee1141b0-default-publicsit-5cef-877060786.sa-east-1.elb.amazonaws.com.",
+          "EvaluateTargetHealth": true
+        }
+      },
+      {
+        "Name": "www.eudoraatbeleza.com.br.",
+        "Type": "A",
+        "AliasTarget": {
+          "HostedZoneId": "Z2P70J7HTTTPLU",
+          "DNSName": "dualstack.907f0e64-default-eudorafro-c714-776480876.sa-east-1.elb.amazonaws.com.",
+          "EvaluateTargetHealth": false
+        }
+      }
+    ]
+  ]
